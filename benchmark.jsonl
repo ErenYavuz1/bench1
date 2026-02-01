@@ -1,0 +1,640 @@
+{"id": "ex_00000__Özne", "sentence": "Sayısız kitabın bulunduğu bu kütüphaneyi geçen yüzyılın başlarında Avrupalı bilim adamları ziyaret etmişler.", "question": "Bu cümlenin öznesi nedir?", "gold": "Avrupalı bilim adamları"}
+{"id": "ex_00000__Gizli Özne", "sentence": "Sayısız kitabın bulunduğu bu kütüphaneyi geçen yüzyılın başlarında Avrupalı bilim adamları ziyaret etmişler.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00000__Zarf Tümleci", "sentence": "Sayısız kitabın bulunduğu bu kütüphaneyi geçen yüzyılın başlarında Avrupalı bilim adamları ziyaret etmişler.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "geçen yüzyılın başlarında"}
+{"id": "ex_00000__Dolaylı Tümleç", "sentence": "Sayısız kitabın bulunduğu bu kütüphaneyi geçen yüzyılın başlarında Avrupalı bilim adamları ziyaret etmişler.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00000__Edat Tümleci", "sentence": "Sayısız kitabın bulunduğu bu kütüphaneyi geçen yüzyılın başlarında Avrupalı bilim adamları ziyaret etmişler.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00000__Belirtili Nesne", "sentence": "Sayısız kitabın bulunduğu bu kütüphaneyi geçen yüzyılın başlarında Avrupalı bilim adamları ziyaret etmişler.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "Sayısız kitabın bulunduğu bu kütüphaneyi"}
+{"id": "ex_00000__Belirtisiz Nesne", "sentence": "Sayısız kitabın bulunduğu bu kütüphaneyi geçen yüzyılın başlarında Avrupalı bilim adamları ziyaret etmişler.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00000__Yüklem", "sentence": "Sayısız kitabın bulunduğu bu kütüphaneyi geçen yüzyılın başlarında Avrupalı bilim adamları ziyaret etmişler.", "question": "Bu cümlenin yüklemi nedir?", "gold": "ziyaret etmişler"}
+{"id": "ex_00001__Özne", "sentence": "Her sanatçı başlangıçta büyük sanatçıları taklit ederek işe başlar.", "question": "Bu cümlenin öznesi nedir?", "gold": "Her sanatçı"}
+{"id": "ex_00001__Gizli Özne", "sentence": "Her sanatçı başlangıçta büyük sanatçıları taklit ederek işe başlar.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00001__Zarf Tümleci", "sentence": "Her sanatçı başlangıçta büyük sanatçıları taklit ederek işe başlar.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "başlangıçta; büyük sanatçıları taklit ederek"}
+{"id": "ex_00001__Dolaylı Tümleç", "sentence": "Her sanatçı başlangıçta büyük sanatçıları taklit ederek işe başlar.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "işe"}
+{"id": "ex_00001__Edat Tümleci", "sentence": "Her sanatçı başlangıçta büyük sanatçıları taklit ederek işe başlar.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00001__Belirtili Nesne", "sentence": "Her sanatçı başlangıçta büyük sanatçıları taklit ederek işe başlar.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00001__Belirtisiz Nesne", "sentence": "Her sanatçı başlangıçta büyük sanatçıları taklit ederek işe başlar.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00001__Yüklem", "sentence": "Her sanatçı başlangıçta büyük sanatçıları taklit ederek işe başlar.", "question": "Bu cümlenin yüklemi nedir?", "gold": "başlar"}
+{"id": "ex_00002__Özne", "sentence": "Şehir dışına çıkmak bu insanları olumlu şekilde etkileyecektir.", "question": "Bu cümlenin öznesi nedir?", "gold": "Şehir dışına çıkmak"}
+{"id": "ex_00002__Gizli Özne", "sentence": "Şehir dışına çıkmak bu insanları olumlu şekilde etkileyecektir.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00002__Zarf Tümleci", "sentence": "Şehir dışına çıkmak bu insanları olumlu şekilde etkileyecektir.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "olumlu şekilde"}
+{"id": "ex_00002__Dolaylı Tümleç", "sentence": "Şehir dışına çıkmak bu insanları olumlu şekilde etkileyecektir.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00002__Edat Tümleci", "sentence": "Şehir dışına çıkmak bu insanları olumlu şekilde etkileyecektir.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00002__Belirtili Nesne", "sentence": "Şehir dışına çıkmak bu insanları olumlu şekilde etkileyecektir.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "bu insanları"}
+{"id": "ex_00002__Belirtisiz Nesne", "sentence": "Şehir dışına çıkmak bu insanları olumlu şekilde etkileyecektir.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00002__Yüklem", "sentence": "Şehir dışına çıkmak bu insanları olumlu şekilde etkileyecektir.", "question": "Bu cümlenin yüklemi nedir?", "gold": "etkileyecektir"}
+{"id": "ex_00003__Özne", "sentence": "Mor dövmelerle işlendi göğsümüze karlı dağların şanlı bayrağı.", "question": "Bu cümlenin öznesi nedir?", "gold": "karlı dağların şanlı bayrağı"}
+{"id": "ex_00003__Gizli Özne", "sentence": "Mor dövmelerle işlendi göğsümüze karlı dağların şanlı bayrağı.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00003__Zarf Tümleci", "sentence": "Mor dövmelerle işlendi göğsümüze karlı dağların şanlı bayrağı.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00003__Dolaylı Tümleç", "sentence": "Mor dövmelerle işlendi göğsümüze karlı dağların şanlı bayrağı.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "göğsümüze"}
+{"id": "ex_00003__Edat Tümleci", "sentence": "Mor dövmelerle işlendi göğsümüze karlı dağların şanlı bayrağı.", "question": "Bu cümlenin edat tümleci nedir?", "gold": "Mor dövmelerle"}
+{"id": "ex_00003__Belirtili Nesne", "sentence": "Mor dövmelerle işlendi göğsümüze karlı dağların şanlı bayrağı.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00003__Belirtisiz Nesne", "sentence": "Mor dövmelerle işlendi göğsümüze karlı dağların şanlı bayrağı.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00003__Yüklem", "sentence": "Mor dövmelerle işlendi göğsümüze karlı dağların şanlı bayrağı.", "question": "Bu cümlenin yüklemi nedir?", "gold": "işlendi"}
+{"id": "ex_00004__Özne", "sentence": "Az önce bir çocuğun ağlaya ağlaya koştuğunu gördüm.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00004__Gizli Özne", "sentence": "Az önce bir çocuğun ağlaya ağlaya koştuğunu gördüm.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Ben"}
+{"id": "ex_00004__Zarf Tümleci", "sentence": "Az önce bir çocuğun ağlaya ağlaya koştuğunu gördüm.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "Az önce"}
+{"id": "ex_00004__Dolaylı Tümleç", "sentence": "Az önce bir çocuğun ağlaya ağlaya koştuğunu gördüm.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00004__Edat Tümleci", "sentence": "Az önce bir çocuğun ağlaya ağlaya koştuğunu gördüm.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00004__Belirtili Nesne", "sentence": "Az önce bir çocuğun ağlaya ağlaya koştuğunu gördüm.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "bir çocuğun ağlaya ağlaya koştuğunu"}
+{"id": "ex_00004__Belirtisiz Nesne", "sentence": "Az önce bir çocuğun ağlaya ağlaya koştuğunu gördüm.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00004__Yüklem", "sentence": "Az önce bir çocuğun ağlaya ağlaya koştuğunu gördüm.", "question": "Bu cümlenin yüklemi nedir?", "gold": "gördüm"}
+{"id": "ex_00005__Özne", "sentence": "Seni kaybetme korkusundan hiç söz etmiyor.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00005__Gizli Özne", "sentence": "Seni kaybetme korkusundan hiç söz etmiyor.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "O"}
+{"id": "ex_00005__Zarf Tümleci", "sentence": "Seni kaybetme korkusundan hiç söz etmiyor.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "hiç"}
+{"id": "ex_00005__Dolaylı Tümleç", "sentence": "Seni kaybetme korkusundan hiç söz etmiyor.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "seni kaybetme korkusundan"}
+{"id": "ex_00005__Edat Tümleci", "sentence": "Seni kaybetme korkusundan hiç söz etmiyor.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00005__Belirtili Nesne", "sentence": "Seni kaybetme korkusundan hiç söz etmiyor.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00005__Belirtisiz Nesne", "sentence": "Seni kaybetme korkusundan hiç söz etmiyor.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00005__Yüklem", "sentence": "Seni kaybetme korkusundan hiç söz etmiyor.", "question": "Bu cümlenin yüklemi nedir?", "gold": "söz etmiyor"}
+{"id": "ex_00006__Özne", "sentence": "Balinalar, okyanustaki en büyük canlılardır.", "question": "Bu cümlenin öznesi nedir?", "gold": "Balinalar"}
+{"id": "ex_00006__Gizli Özne", "sentence": "Balinalar, okyanustaki en büyük canlılardır.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00006__Zarf Tümleci", "sentence": "Balinalar, okyanustaki en büyük canlılardır.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00006__Dolaylı Tümleç", "sentence": "Balinalar, okyanustaki en büyük canlılardır.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00006__Edat Tümleci", "sentence": "Balinalar, okyanustaki en büyük canlılardır.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00006__Belirtili Nesne", "sentence": "Balinalar, okyanustaki en büyük canlılardır.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00006__Belirtisiz Nesne", "sentence": "Balinalar, okyanustaki en büyük canlılardır.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00006__Yüklem", "sentence": "Balinalar, okyanustaki en büyük canlılardır.", "question": "Bu cümlenin yüklemi nedir?", "gold": "okyanustaki en büyük canlılardır"}
+{"id": "ex_00007__Özne", "sentence": "Yağmur bastırınca herkes hemen içeri kaçtı.", "question": "Bu cümlenin öznesi nedir?", "gold": "herkes"}
+{"id": "ex_00007__Gizli Özne", "sentence": "Yağmur bastırınca herkes hemen içeri kaçtı.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00007__Zarf Tümleci", "sentence": "Yağmur bastırınca herkes hemen içeri kaçtı.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "Yağmur bastırınca; hemen; içeri"}
+{"id": "ex_00007__Dolaylı Tümleç", "sentence": "Yağmur bastırınca herkes hemen içeri kaçtı.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00007__Edat Tümleci", "sentence": "Yağmur bastırınca herkes hemen içeri kaçtı.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00007__Belirtili Nesne", "sentence": "Yağmur bastırınca herkes hemen içeri kaçtı.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00007__Belirtisiz Nesne", "sentence": "Yağmur bastırınca herkes hemen içeri kaçtı.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00007__Yüklem", "sentence": "Yağmur bastırınca herkes hemen içeri kaçtı.", "question": "Bu cümlenin yüklemi nedir?", "gold": "kaçtı"}
+{"id": "ex_00008__Özne", "sentence": "Arabasının başına gelenleri ona ben anlatamadım.", "question": "Bu cümlenin öznesi nedir?", "gold": "ben"}
+{"id": "ex_00008__Gizli Özne", "sentence": "Arabasının başına gelenleri ona ben anlatamadım.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00008__Zarf Tümleci", "sentence": "Arabasının başına gelenleri ona ben anlatamadım.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00008__Dolaylı Tümleç", "sentence": "Arabasının başına gelenleri ona ben anlatamadım.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "ona"}
+{"id": "ex_00008__Edat Tümleci", "sentence": "Arabasının başına gelenleri ona ben anlatamadım.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00008__Belirtili Nesne", "sentence": "Arabasının başına gelenleri ona ben anlatamadım.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "Arabasının başına gelenleri"}
+{"id": "ex_00008__Belirtisiz Nesne", "sentence": "Arabasının başına gelenleri ona ben anlatamadım.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00008__Yüklem", "sentence": "Arabasının başına gelenleri ona ben anlatamadım.", "question": "Bu cümlenin yüklemi nedir?", "gold": "anlatamadım"}
+{"id": "ex_00009__Özne", "sentence": "Dün okulda yaşanan olay herkesin keyfini kaçırdı.", "question": "Bu cümlenin öznesi nedir?", "gold": "Dün okulda yaşanan olay"}
+{"id": "ex_00009__Gizli Özne", "sentence": "Dün okulda yaşanan olay herkesin keyfini kaçırdı.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00009__Zarf Tümleci", "sentence": "Dün okulda yaşanan olay herkesin keyfini kaçırdı.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00009__Dolaylı Tümleç", "sentence": "Dün okulda yaşanan olay herkesin keyfini kaçırdı.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00009__Edat Tümleci", "sentence": "Dün okulda yaşanan olay herkesin keyfini kaçırdı.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00009__Belirtili Nesne", "sentence": "Dün okulda yaşanan olay herkesin keyfini kaçırdı.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "herkesin keyfini"}
+{"id": "ex_00009__Belirtisiz Nesne", "sentence": "Dün okulda yaşanan olay herkesin keyfini kaçırdı.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00009__Yüklem", "sentence": "Dün okulda yaşanan olay herkesin keyfini kaçırdı.", "question": "Bu cümlenin yüklemi nedir?", "gold": "kaçırdı"}
+{"id": "ex_00010__Özne", "sentence": "Sait Faik, öykülerinde gerçekçi bir çizgi yakalamıştır.", "question": "Bu cümlenin öznesi nedir?", "gold": "Sait Faik"}
+{"id": "ex_00010__Gizli Özne", "sentence": "Sait Faik, öykülerinde gerçekçi bir çizgi yakalamıştır.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00010__Zarf Tümleci", "sentence": "Sait Faik, öykülerinde gerçekçi bir çizgi yakalamıştır.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00010__Dolaylı Tümleç", "sentence": "Sait Faik, öykülerinde gerçekçi bir çizgi yakalamıştır.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "öykülerinde"}
+{"id": "ex_00010__Edat Tümleci", "sentence": "Sait Faik, öykülerinde gerçekçi bir çizgi yakalamıştır.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00010__Belirtili Nesne", "sentence": "Sait Faik, öykülerinde gerçekçi bir çizgi yakalamıştır.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00010__Belirtisiz Nesne", "sentence": "Sait Faik, öykülerinde gerçekçi bir çizgi yakalamıştır.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": "gerçekçi bir çizgi"}
+{"id": "ex_00010__Yüklem", "sentence": "Sait Faik, öykülerinde gerçekçi bir çizgi yakalamıştır.", "question": "Bu cümlenin yüklemi nedir?", "gold": "yakalamıştır"}
+{"id": "ex_00011__Özne", "sentence": "Aldığınız ürünler istendiğiniz şekilde sarıldı.", "question": "Bu cümlenin öznesi nedir?", "gold": "Aldığınız ürünler"}
+{"id": "ex_00011__Gizli Özne", "sentence": "Aldığınız ürünler istendiğiniz şekilde sarıldı.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00011__Zarf Tümleci", "sentence": "Aldığınız ürünler istendiğiniz şekilde sarıldı.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "istendiğiniz şekilde"}
+{"id": "ex_00011__Dolaylı Tümleç", "sentence": "Aldığınız ürünler istendiğiniz şekilde sarıldı.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00011__Edat Tümleci", "sentence": "Aldığınız ürünler istendiğiniz şekilde sarıldı.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00011__Belirtili Nesne", "sentence": "Aldığınız ürünler istendiğiniz şekilde sarıldı.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00011__Belirtisiz Nesne", "sentence": "Aldığınız ürünler istendiğiniz şekilde sarıldı.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00011__Yüklem", "sentence": "Aldığınız ürünler istendiğiniz şekilde sarıldı.", "question": "Bu cümlenin yüklemi nedir?", "gold": "sarıldı"}
+{"id": "ex_00012__Özne", "sentence": "Koşturuyoruz ufuktan ufka, gençlik günlerindeki gibi.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00012__Gizli Özne", "sentence": "Koşturuyoruz ufuktan ufka, gençlik günlerindeki gibi.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Biz"}
+{"id": "ex_00012__Zarf Tümleci", "sentence": "Koşturuyoruz ufuktan ufka, gençlik günlerindeki gibi.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "gençlik günlerindeki gibi"}
+{"id": "ex_00012__Dolaylı Tümleç", "sentence": "Koşturuyoruz ufuktan ufka, gençlik günlerindeki gibi.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "ufuktan ufka"}
+{"id": "ex_00012__Edat Tümleci", "sentence": "Koşturuyoruz ufuktan ufka, gençlik günlerindeki gibi.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00012__Belirtili Nesne", "sentence": "Koşturuyoruz ufuktan ufka, gençlik günlerindeki gibi.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00012__Belirtisiz Nesne", "sentence": "Koşturuyoruz ufuktan ufka, gençlik günlerindeki gibi.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00012__Yüklem", "sentence": "Koşturuyoruz ufuktan ufka, gençlik günlerindeki gibi.", "question": "Bu cümlenin yüklemi nedir?", "gold": "koşturuyoruz"}
+{"id": "ex_00013__Özne", "sentence": "Babalarından kalan yüklü mirası medeni bir şekilde paylaştılar.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00013__Gizli Özne", "sentence": "Babalarından kalan yüklü mirası medeni bir şekilde paylaştılar.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Onlar"}
+{"id": "ex_00013__Zarf Tümleci", "sentence": "Babalarından kalan yüklü mirası medeni bir şekilde paylaştılar.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "medeni bir şekilde"}
+{"id": "ex_00013__Dolaylı Tümleç", "sentence": "Babalarından kalan yüklü mirası medeni bir şekilde paylaştılar.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00013__Edat Tümleci", "sentence": "Babalarından kalan yüklü mirası medeni bir şekilde paylaştılar.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00013__Belirtili Nesne", "sentence": "Babalarından kalan yüklü mirası medeni bir şekilde paylaştılar.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "Babalarından kalan yüklü mirası"}
+{"id": "ex_00013__Belirtisiz Nesne", "sentence": "Babalarından kalan yüklü mirası medeni bir şekilde paylaştılar.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00013__Yüklem", "sentence": "Babalarından kalan yüklü mirası medeni bir şekilde paylaştılar.", "question": "Bu cümlenin yüklemi nedir?", "gold": "paylaştılar"}
+{"id": "ex_00014__Özne", "sentence": "Kitapların dilinden anlamak, onlarla içli dışlı olmaya bağlıdır.", "question": "Bu cümlenin öznesi nedir?", "gold": "Kitapların dilinden anlamak"}
+{"id": "ex_00014__Gizli Özne", "sentence": "Kitapların dilinden anlamak, onlarla içli dışlı olmaya bağlıdır.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00014__Zarf Tümleci", "sentence": "Kitapların dilinden anlamak, onlarla içli dışlı olmaya bağlıdır.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00014__Dolaylı Tümleç", "sentence": "Kitapların dilinden anlamak, onlarla içli dışlı olmaya bağlıdır.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "onlarla içli dışlı olmaya"}
+{"id": "ex_00014__Edat Tümleci", "sentence": "Kitapların dilinden anlamak, onlarla içli dışlı olmaya bağlıdır.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00014__Belirtili Nesne", "sentence": "Kitapların dilinden anlamak, onlarla içli dışlı olmaya bağlıdır.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00014__Belirtisiz Nesne", "sentence": "Kitapların dilinden anlamak, onlarla içli dışlı olmaya bağlıdır.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00014__Yüklem", "sentence": "Kitapların dilinden anlamak, onlarla içli dışlı olmaya bağlıdır.", "question": "Bu cümlenin yüklemi nedir?", "gold": "bağlıdır"}
+{"id": "ex_00015__Özne", "sentence": "Burada yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi severdi.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00015__Gizli Özne", "sentence": "Burada yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi severdi.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "O"}
+{"id": "ex_00015__Zarf Tümleci", "sentence": "Burada yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi severdi.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00015__Dolaylı Tümleç", "sentence": "Burada yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi severdi.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00015__Edat Tümleci", "sentence": "Burada yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi severdi.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00015__Belirtili Nesne", "sentence": "Burada yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi severdi.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "Burada yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi"}
+{"id": "ex_00015__Belirtisiz Nesne", "sentence": "Burada yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi severdi.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00015__Yüklem", "sentence": "Burada yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi severdi.", "question": "Bu cümlenin yüklemi nedir?", "gold": "severdi"}
+{"id": "ex_00016__Özne", "sentence": "Bu ilaçlar sadece bugünkü tıbbın ve kimyanın zaferi değildir.", "question": "Bu cümlenin öznesi nedir?", "gold": "Bu ilaçlar"}
+{"id": "ex_00016__Gizli Özne", "sentence": "Bu ilaçlar sadece bugünkü tıbbın ve kimyanın zaferi değildir.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00016__Zarf Tümleci", "sentence": "Bu ilaçlar sadece bugünkü tıbbın ve kimyanın zaferi değildir.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00016__Dolaylı Tümleç", "sentence": "Bu ilaçlar sadece bugünkü tıbbın ve kimyanın zaferi değildir.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00016__Edat Tümleci", "sentence": "Bu ilaçlar sadece bugünkü tıbbın ve kimyanın zaferi değildir.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00016__Belirtili Nesne", "sentence": "Bu ilaçlar sadece bugünkü tıbbın ve kimyanın zaferi değildir.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00016__Belirtisiz Nesne", "sentence": "Bu ilaçlar sadece bugünkü tıbbın ve kimyanın zaferi değildir.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00016__Yüklem", "sentence": "Bu ilaçlar sadece bugünkü tıbbın ve kimyanın zaferi değildir.", "question": "Bu cümlenin yüklemi nedir?", "gold": "bugünkü tıbbın ve kimyanın zaferi değildir"}
+{"id": "ex_00017__Özne", "sentence": "Bütün öğrenciler benim gibi davranıyor bugünlerde.", "question": "Bu cümlenin öznesi nedir?", "gold": "Bütün öğrenciler"}
+{"id": "ex_00017__Gizli Özne", "sentence": "Bütün öğrenciler benim gibi davranıyor bugünlerde.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00017__Zarf Tümleci", "sentence": "Bütün öğrenciler benim gibi davranıyor bugünlerde.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "benim gibi; bugünlerde"}
+{"id": "ex_00017__Dolaylı Tümleç", "sentence": "Bütün öğrenciler benim gibi davranıyor bugünlerde.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00017__Edat Tümleci", "sentence": "Bütün öğrenciler benim gibi davranıyor bugünlerde.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00017__Belirtili Nesne", "sentence": "Bütün öğrenciler benim gibi davranıyor bugünlerde.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00017__Belirtisiz Nesne", "sentence": "Bütün öğrenciler benim gibi davranıyor bugünlerde.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00017__Yüklem", "sentence": "Bütün öğrenciler benim gibi davranıyor bugünlerde.", "question": "Bu cümlenin yüklemi nedir?", "gold": "davranıyor"}
+{"id": "ex_00018__Özne", "sentence": "Eyvah! Yemeği ocakta unuttum.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00018__Gizli Özne", "sentence": "Eyvah! Yemeği ocakta unuttum.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Ben"}
+{"id": "ex_00018__Zarf Tümleci", "sentence": "Eyvah! Yemeği ocakta unuttum.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00018__Dolaylı Tümleç", "sentence": "Eyvah! Yemeği ocakta unuttum.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "ocakta"}
+{"id": "ex_00018__Edat Tümleci", "sentence": "Eyvah! Yemeği ocakta unuttum.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00018__Belirtili Nesne", "sentence": "Eyvah! Yemeği ocakta unuttum.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "yemeği"}
+{"id": "ex_00018__Belirtisiz Nesne", "sentence": "Eyvah! Yemeği ocakta unuttum.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00018__Yüklem", "sentence": "Eyvah! Yemeği ocakta unuttum.", "question": "Bu cümlenin yüklemi nedir?", "gold": "unuttum"}
+{"id": "ex_00019__Özne", "sentence": "Doğru insanlar doğru konuşurlar.", "question": "Bu cümlenin öznesi nedir?", "gold": "doğru insanlar"}
+{"id": "ex_00019__Gizli Özne", "sentence": "Doğru insanlar doğru konuşurlar.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00019__Zarf Tümleci", "sentence": "Doğru insanlar doğru konuşurlar.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "doğru"}
+{"id": "ex_00019__Dolaylı Tümleç", "sentence": "Doğru insanlar doğru konuşurlar.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00019__Edat Tümleci", "sentence": "Doğru insanlar doğru konuşurlar.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00019__Belirtili Nesne", "sentence": "Doğru insanlar doğru konuşurlar.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00019__Belirtisiz Nesne", "sentence": "Doğru insanlar doğru konuşurlar.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00019__Yüklem", "sentence": "Doğru insanlar doğru konuşurlar.", "question": "Bu cümlenin yüklemi nedir?", "gold": "konuşurlar"}
+{"id": "ex_00020__Özne", "sentence": "Yoksulların içinde bulunduğu sıkıntıları bir nebze olsa azaltmak için elinden geldiğince onlara yardım ederdi.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00020__Gizli Özne", "sentence": "Yoksulların içinde bulunduğu sıkıntıları bir nebze olsa azaltmak için elinden geldiğince onlara yardım ederdi.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "O"}
+{"id": "ex_00020__Zarf Tümleci", "sentence": "Yoksulların içinde bulunduğu sıkıntıları bir nebze olsa azaltmak için elinden geldiğince onlara yardım ederdi.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "elinden geldiğince"}
+{"id": "ex_00020__Dolaylı Tümleç", "sentence": "Yoksulların içinde bulunduğu sıkıntıları bir nebze olsa azaltmak için elinden geldiğince onlara yardım ederdi.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "onlara"}
+{"id": "ex_00020__Edat Tümleci", "sentence": "Yoksulların içinde bulunduğu sıkıntıları bir nebze olsa azaltmak için elinden geldiğince onlara yardım ederdi.", "question": "Bu cümlenin edat tümleci nedir?", "gold": "Yoksulların içinde bulunduğu sıkıntıları bir nebze olsa azaltmak için"}
+{"id": "ex_00020__Belirtili Nesne", "sentence": "Yoksulların içinde bulunduğu sıkıntıları bir nebze olsa azaltmak için elinden geldiğince onlara yardım ederdi.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00020__Belirtisiz Nesne", "sentence": "Yoksulların içinde bulunduğu sıkıntıları bir nebze olsa azaltmak için elinden geldiğince onlara yardım ederdi.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00020__Yüklem", "sentence": "Yoksulların içinde bulunduğu sıkıntıları bir nebze olsa azaltmak için elinden geldiğince onlara yardım ederdi.", "question": "Bu cümlenin yüklemi nedir?", "gold": "yardım ederdi"}
+{"id": "ex_00021__Özne", "sentence": "Suyun insanlık için önemi son yıllarda daha iyi anlaşılır oldu.", "question": "Bu cümlenin öznesi nedir?", "gold": "Suyun insanlık için önemi"}
+{"id": "ex_00021__Gizli Özne", "sentence": "Suyun insanlık için önemi son yıllarda daha iyi anlaşılır oldu.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00021__Zarf Tümleci", "sentence": "Suyun insanlık için önemi son yıllarda daha iyi anlaşılır oldu.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "son yıllarda; daha iyi"}
+{"id": "ex_00021__Dolaylı Tümleç", "sentence": "Suyun insanlık için önemi son yıllarda daha iyi anlaşılır oldu.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00021__Edat Tümleci", "sentence": "Suyun insanlık için önemi son yıllarda daha iyi anlaşılır oldu.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00021__Belirtili Nesne", "sentence": "Suyun insanlık için önemi son yıllarda daha iyi anlaşılır oldu.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00021__Belirtisiz Nesne", "sentence": "Suyun insanlık için önemi son yıllarda daha iyi anlaşılır oldu.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00021__Yüklem", "sentence": "Suyun insanlık için önemi son yıllarda daha iyi anlaşılır oldu.", "question": "Bu cümlenin yüklemi nedir?", "gold": "anlaşılır oldu"}
+{"id": "ex_00022__Özne", "sentence": "Yazar en güzel şiirlerini deniz kıyısındaki küçük evde mehtaplı gecelerde yazdığını söylüyor.", "question": "Bu cümlenin öznesi nedir?", "gold": "Yazar"}
+{"id": "ex_00022__Gizli Özne", "sentence": "Yazar en güzel şiirlerini deniz kıyısındaki küçük evde mehtaplı gecelerde yazdığını söylüyor.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00022__Zarf Tümleci", "sentence": "Yazar en güzel şiirlerini deniz kıyısındaki küçük evde mehtaplı gecelerde yazdığını söylüyor.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00022__Dolaylı Tümleç", "sentence": "Yazar en güzel şiirlerini deniz kıyısındaki küçük evde mehtaplı gecelerde yazdığını söylüyor.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00022__Edat Tümleci", "sentence": "Yazar en güzel şiirlerini deniz kıyısındaki küçük evde mehtaplı gecelerde yazdığını söylüyor.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00022__Belirtili Nesne", "sentence": "Yazar en güzel şiirlerini deniz kıyısındaki küçük evde mehtaplı gecelerde yazdığını söylüyor.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "en güzel şiirlerini deniz kıyısındaki küçük evde mehtaplı gecelerde yazdığını"}
+{"id": "ex_00022__Belirtisiz Nesne", "sentence": "Yazar en güzel şiirlerini deniz kıyısındaki küçük evde mehtaplı gecelerde yazdığını söylüyor.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00022__Yüklem", "sentence": "Yazar en güzel şiirlerini deniz kıyısındaki küçük evde mehtaplı gecelerde yazdığını söylüyor.", "question": "Bu cümlenin yüklemi nedir?", "gold": "söylüyor"}
+{"id": "ex_00023__Özne", "sentence": "Düşünce, insana doğuştan gelmiş gizli bir güç değildir.", "question": "Bu cümlenin öznesi nedir?", "gold": "Düşünce"}
+{"id": "ex_00023__Gizli Özne", "sentence": "Düşünce, insana doğuştan gelmiş gizli bir güç değildir.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00023__Zarf Tümleci", "sentence": "Düşünce, insana doğuştan gelmiş gizli bir güç değildir.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00023__Dolaylı Tümleç", "sentence": "Düşünce, insana doğuştan gelmiş gizli bir güç değildir.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00023__Edat Tümleci", "sentence": "Düşünce, insana doğuştan gelmiş gizli bir güç değildir.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00023__Belirtili Nesne", "sentence": "Düşünce, insana doğuştan gelmiş gizli bir güç değildir.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00023__Belirtisiz Nesne", "sentence": "Düşünce, insana doğuştan gelmiş gizli bir güç değildir.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00023__Yüklem", "sentence": "Düşünce, insana doğuştan gelmiş gizli bir güç değildir.", "question": "Bu cümlenin yüklemi nedir?", "gold": "insana doğuştan gelmiş gizli bir güç değildir"}
+{"id": "ex_00024__Özne", "sentence": "Dün gece gittiler yurt dışından gelen konuklarımız.", "question": "Bu cümlenin öznesi nedir?", "gold": "yurt dışından gelen konuklarımız"}
+{"id": "ex_00024__Gizli Özne", "sentence": "Dün gece gittiler yurt dışından gelen konuklarımız.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00024__Zarf Tümleci", "sentence": "Dün gece gittiler yurt dışından gelen konuklarımız.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "Dün gece"}
+{"id": "ex_00024__Dolaylı Tümleç", "sentence": "Dün gece gittiler yurt dışından gelen konuklarımız.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00024__Edat Tümleci", "sentence": "Dün gece gittiler yurt dışından gelen konuklarımız.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00024__Belirtili Nesne", "sentence": "Dün gece gittiler yurt dışından gelen konuklarımız.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00024__Belirtisiz Nesne", "sentence": "Dün gece gittiler yurt dışından gelen konuklarımız.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00024__Yüklem", "sentence": "Dün gece gittiler yurt dışından gelen konuklarımız.", "question": "Bu cümlenin yüklemi nedir?", "gold": "gittiler"}
+{"id": "ex_00025__Özne", "sentence": "Aramıza katılanlar arasında böyle düşünen çok azdı.", "question": "Bu cümlenin öznesi nedir?", "gold": "Böyle düşünen"}
+{"id": "ex_00025__Gizli Özne", "sentence": "Aramıza katılanlar arasında böyle düşünen çok azdı.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00025__Zarf Tümleci", "sentence": "Aramıza katılanlar arasında böyle düşünen çok azdı.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "çok"}
+{"id": "ex_00025__Dolaylı Tümleç", "sentence": "Aramıza katılanlar arasında böyle düşünen çok azdı.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "aramıza katılanlar arasında"}
+{"id": "ex_00025__Edat Tümleci", "sentence": "Aramıza katılanlar arasında böyle düşünen çok azdı.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00025__Belirtili Nesne", "sentence": "Aramıza katılanlar arasında böyle düşünen çok azdı.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00025__Belirtisiz Nesne", "sentence": "Aramıza katılanlar arasında böyle düşünen çok azdı.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00025__Yüklem", "sentence": "Aramıza katılanlar arasında böyle düşünen çok azdı.", "question": "Bu cümlenin yüklemi nedir?", "gold": "azdı"}
+{"id": "ex_00026__Özne", "sentence": "Halk türkülerinin ezgisiyle geçmişti çocukluğu.", "question": "Bu cümlenin öznesi nedir?", "gold": "çocukluğu"}
+{"id": "ex_00026__Gizli Özne", "sentence": "Halk türkülerinin ezgisiyle geçmişti çocukluğu.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00026__Zarf Tümleci", "sentence": "Halk türkülerinin ezgisiyle geçmişti çocukluğu.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00026__Dolaylı Tümleç", "sentence": "Halk türkülerinin ezgisiyle geçmişti çocukluğu.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00026__Edat Tümleci", "sentence": "Halk türkülerinin ezgisiyle geçmişti çocukluğu.", "question": "Bu cümlenin edat tümleci nedir?", "gold": "Halk türkülerinin ezgisiyle"}
+{"id": "ex_00026__Belirtili Nesne", "sentence": "Halk türkülerinin ezgisiyle geçmişti çocukluğu.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00026__Belirtisiz Nesne", "sentence": "Halk türkülerinin ezgisiyle geçmişti çocukluğu.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00026__Yüklem", "sentence": "Halk türkülerinin ezgisiyle geçmişti çocukluğu.", "question": "Bu cümlenin yüklemi nedir?", "gold": "geçmişti"}
+{"id": "ex_00027__Özne", "sentence": "Tanıyamadığım binlerce bitki türü var Amazonlarda.", "question": "Bu cümlenin öznesi nedir?", "gold": "Tanıyamadığım binlerce bitki türü"}
+{"id": "ex_00027__Gizli Özne", "sentence": "Tanıyamadığım binlerce bitki türü var Amazonlarda.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00027__Zarf Tümleci", "sentence": "Tanıyamadığım binlerce bitki türü var Amazonlarda.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00027__Dolaylı Tümleç", "sentence": "Tanıyamadığım binlerce bitki türü var Amazonlarda.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "Amazonlarda"}
+{"id": "ex_00027__Edat Tümleci", "sentence": "Tanıyamadığım binlerce bitki türü var Amazonlarda.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00027__Belirtili Nesne", "sentence": "Tanıyamadığım binlerce bitki türü var Amazonlarda.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00027__Belirtisiz Nesne", "sentence": "Tanıyamadığım binlerce bitki türü var Amazonlarda.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00027__Yüklem", "sentence": "Tanıyamadığım binlerce bitki türü var Amazonlarda.", "question": "Bu cümlenin yüklemi nedir?", "gold": "var"}
+{"id": "ex_00028__Özne", "sentence": "Dünyaca tanınan yönetmen birçok filminde gerçek hikâyeleri ele alır.", "question": "Bu cümlenin öznesi nedir?", "gold": "Dünyaca tanınan yönetmen"}
+{"id": "ex_00028__Gizli Özne", "sentence": "Dünyaca tanınan yönetmen birçok filminde gerçek hikâyeleri ele alır.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00028__Zarf Tümleci", "sentence": "Dünyaca tanınan yönetmen birçok filminde gerçek hikâyeleri ele alır.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00028__Dolaylı Tümleç", "sentence": "Dünyaca tanınan yönetmen birçok filminde gerçek hikâyeleri ele alır.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "birçok filminde"}
+{"id": "ex_00028__Edat Tümleci", "sentence": "Dünyaca tanınan yönetmen birçok filminde gerçek hikâyeleri ele alır.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00028__Belirtili Nesne", "sentence": "Dünyaca tanınan yönetmen birçok filminde gerçek hikâyeleri ele alır.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "gerçek hikâyeleri"}
+{"id": "ex_00028__Belirtisiz Nesne", "sentence": "Dünyaca tanınan yönetmen birçok filminde gerçek hikâyeleri ele alır.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00028__Yüklem", "sentence": "Dünyaca tanınan yönetmen birçok filminde gerçek hikâyeleri ele alır.", "question": "Bu cümlenin yüklemi nedir?", "gold": "ele alır"}
+{"id": "ex_00029__Özne", "sentence": "Sanatçı, oğlunu kaybedince bütün hayatını çocuklara yardım etmek için harcadı.", "question": "Bu cümlenin öznesi nedir?", "gold": "Sanatçı"}
+{"id": "ex_00029__Gizli Özne", "sentence": "Sanatçı, oğlunu kaybedince bütün hayatını çocuklara yardım etmek için harcadı.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00029__Zarf Tümleci", "sentence": "Sanatçı, oğlunu kaybedince bütün hayatını çocuklara yardım etmek için harcadı.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "oğlunu kaybedince"}
+{"id": "ex_00029__Dolaylı Tümleç", "sentence": "Sanatçı, oğlunu kaybedince bütün hayatını çocuklara yardım etmek için harcadı.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00029__Edat Tümleci", "sentence": "Sanatçı, oğlunu kaybedince bütün hayatını çocuklara yardım etmek için harcadı.", "question": "Bu cümlenin edat tümleci nedir?", "gold": "çocuklara yardım etmek için"}
+{"id": "ex_00029__Belirtili Nesne", "sentence": "Sanatçı, oğlunu kaybedince bütün hayatını çocuklara yardım etmek için harcadı.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "bütün hayatını"}
+{"id": "ex_00029__Belirtisiz Nesne", "sentence": "Sanatçı, oğlunu kaybedince bütün hayatını çocuklara yardım etmek için harcadı.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00029__Yüklem", "sentence": "Sanatçı, oğlunu kaybedince bütün hayatını çocuklara yardım etmek için harcadı.", "question": "Bu cümlenin yüklemi nedir?", "gold": "harcadı"}
+{"id": "ex_00030__Özne", "sentence": "Türkçe dersinin en önemli konusu cümlenin ögeleriydi.", "question": "Bu cümlenin öznesi nedir?", "gold": "Türkçe dersinin en önemli konusu"}
+{"id": "ex_00030__Gizli Özne", "sentence": "Türkçe dersinin en önemli konusu cümlenin ögeleriydi.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00030__Zarf Tümleci", "sentence": "Türkçe dersinin en önemli konusu cümlenin ögeleriydi.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00030__Dolaylı Tümleç", "sentence": "Türkçe dersinin en önemli konusu cümlenin ögeleriydi.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00030__Edat Tümleci", "sentence": "Türkçe dersinin en önemli konusu cümlenin ögeleriydi.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00030__Belirtili Nesne", "sentence": "Türkçe dersinin en önemli konusu cümlenin ögeleriydi.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00030__Belirtisiz Nesne", "sentence": "Türkçe dersinin en önemli konusu cümlenin ögeleriydi.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00030__Yüklem", "sentence": "Türkçe dersinin en önemli konusu cümlenin ögeleriydi.", "question": "Bu cümlenin yüklemi nedir?", "gold": "cümlenin ögeleriydi"}
+{"id": "ex_00031__Özne", "sentence": "Kaybettim kalbimi ben yine.", "question": "Bu cümlenin öznesi nedir?", "gold": "Ben"}
+{"id": "ex_00031__Gizli Özne", "sentence": "Kaybettim kalbimi ben yine.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00031__Zarf Tümleci", "sentence": "Kaybettim kalbimi ben yine.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "yine"}
+{"id": "ex_00031__Dolaylı Tümleç", "sentence": "Kaybettim kalbimi ben yine.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00031__Edat Tümleci", "sentence": "Kaybettim kalbimi ben yine.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00031__Belirtili Nesne", "sentence": "Kaybettim kalbimi ben yine.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "kalbimi"}
+{"id": "ex_00031__Belirtisiz Nesne", "sentence": "Kaybettim kalbimi ben yine.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00031__Yüklem", "sentence": "Kaybettim kalbimi ben yine.", "question": "Bu cümlenin yüklemi nedir?", "gold": "kaybettim"}
+{"id": "ex_00032__Özne", "sentence": "Ege bölgesi muhteşem bir doğa olayına ev sahipliği yaptı.", "question": "Bu cümlenin öznesi nedir?", "gold": "Ege bölgesi"}
+{"id": "ex_00032__Gizli Özne", "sentence": "Ege bölgesi muhteşem bir doğa olayına ev sahipliği yaptı.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00032__Zarf Tümleci", "sentence": "Ege bölgesi muhteşem bir doğa olayına ev sahipliği yaptı.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00032__Dolaylı Tümleç", "sentence": "Ege bölgesi muhteşem bir doğa olayına ev sahipliği yaptı.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "muhteşem bir doğa olayına"}
+{"id": "ex_00032__Edat Tümleci", "sentence": "Ege bölgesi muhteşem bir doğa olayına ev sahipliği yaptı.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00032__Belirtili Nesne", "sentence": "Ege bölgesi muhteşem bir doğa olayına ev sahipliği yaptı.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00032__Belirtisiz Nesne", "sentence": "Ege bölgesi muhteşem bir doğa olayına ev sahipliği yaptı.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": "ev sahipliği"}
+{"id": "ex_00032__Yüklem", "sentence": "Ege bölgesi muhteşem bir doğa olayına ev sahipliği yaptı.", "question": "Bu cümlenin yüklemi nedir?", "gold": "yaptı"}
+{"id": "ex_00033__Özne", "sentence": "Kırık dökük şu kalbimde sebebimsin.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00033__Gizli Özne", "sentence": "Kırık dökük şu kalbimde sebebimsin.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Sen"}
+{"id": "ex_00033__Zarf Tümleci", "sentence": "Kırık dökük şu kalbimde sebebimsin.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00033__Dolaylı Tümleç", "sentence": "Kırık dökük şu kalbimde sebebimsin.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "kırık dökük şu kalbimde"}
+{"id": "ex_00033__Edat Tümleci", "sentence": "Kırık dökük şu kalbimde sebebimsin.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00033__Belirtili Nesne", "sentence": "Kırık dökük şu kalbimde sebebimsin.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00033__Belirtisiz Nesne", "sentence": "Kırık dökük şu kalbimde sebebimsin.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00033__Yüklem", "sentence": "Kırık dökük şu kalbimde sebebimsin.", "question": "Bu cümlenin yüklemi nedir?", "gold": "sebebimsin"}
+{"id": "ex_00034__Özne", "sentence": "Bazıları entari üstüne kürk giymeyi daha çok severlerdi.", "question": "Bu cümlenin öznesi nedir?", "gold": "Bazıları"}
+{"id": "ex_00034__Gizli Özne", "sentence": "Bazıları entari üstüne kürk giymeyi daha çok severlerdi.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00034__Zarf Tümleci", "sentence": "Bazıları entari üstüne kürk giymeyi daha çok severlerdi.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "daha çok"}
+{"id": "ex_00034__Dolaylı Tümleç", "sentence": "Bazıları entari üstüne kürk giymeyi daha çok severlerdi.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00034__Edat Tümleci", "sentence": "Bazıları entari üstüne kürk giymeyi daha çok severlerdi.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00034__Belirtili Nesne", "sentence": "Bazıları entari üstüne kürk giymeyi daha çok severlerdi.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "entari üstüne kürk giymeyi"}
+{"id": "ex_00034__Belirtisiz Nesne", "sentence": "Bazıları entari üstüne kürk giymeyi daha çok severlerdi.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00034__Yüklem", "sentence": "Bazıları entari üstüne kürk giymeyi daha çok severlerdi.", "question": "Bu cümlenin yüklemi nedir?", "gold": "severlerdi"}
+{"id": "ex_00035__Özne", "sentence": "Karanlık yerde insan korkmaz mıydı?", "question": "Bu cümlenin öznesi nedir?", "gold": "insan"}
+{"id": "ex_00035__Gizli Özne", "sentence": "Karanlık yerde insan korkmaz mıydı?", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00035__Zarf Tümleci", "sentence": "Karanlık yerde insan korkmaz mıydı?", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00035__Dolaylı Tümleç", "sentence": "Karanlık yerde insan korkmaz mıydı?", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "karanlık yerde"}
+{"id": "ex_00035__Edat Tümleci", "sentence": "Karanlık yerde insan korkmaz mıydı?", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00035__Belirtili Nesne", "sentence": "Karanlık yerde insan korkmaz mıydı?", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00035__Belirtisiz Nesne", "sentence": "Karanlık yerde insan korkmaz mıydı?", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00035__Yüklem", "sentence": "Karanlık yerde insan korkmaz mıydı?", "question": "Bu cümlenin yüklemi nedir?", "gold": "korkmaz mıydı"}
+{"id": "ex_00036__Özne", "sentence": "Bu olanlardan sonra ona inanmak mümkün değildi.", "question": "Bu cümlenin öznesi nedir?", "gold": "ona inanmak"}
+{"id": "ex_00036__Gizli Özne", "sentence": "Bu olanlardan sonra ona inanmak mümkün değildi.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00036__Zarf Tümleci", "sentence": "Bu olanlardan sonra ona inanmak mümkün değildi.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "bu olanlardan sonra"}
+{"id": "ex_00036__Dolaylı Tümleç", "sentence": "Bu olanlardan sonra ona inanmak mümkün değildi.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00036__Edat Tümleci", "sentence": "Bu olanlardan sonra ona inanmak mümkün değildi.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00036__Belirtili Nesne", "sentence": "Bu olanlardan sonra ona inanmak mümkün değildi.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00036__Belirtisiz Nesne", "sentence": "Bu olanlardan sonra ona inanmak mümkün değildi.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00036__Yüklem", "sentence": "Bu olanlardan sonra ona inanmak mümkün değildi.", "question": "Bu cümlenin yüklemi nedir?", "gold": "mümkün değildi"}
+{"id": "ex_00037__Özne", "sentence": "İşsiz geçirdiği her gün biraz daha karamsar oldu.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00037__Gizli Özne", "sentence": "İşsiz geçirdiği her gün biraz daha karamsar oldu.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "O"}
+{"id": "ex_00037__Zarf Tümleci", "sentence": "İşsiz geçirdiği her gün biraz daha karamsar oldu.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "işsiz geçirdiği her gün; biraz daha"}
+{"id": "ex_00037__Dolaylı Tümleç", "sentence": "İşsiz geçirdiği her gün biraz daha karamsar oldu.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00037__Edat Tümleci", "sentence": "İşsiz geçirdiği her gün biraz daha karamsar oldu.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00037__Belirtili Nesne", "sentence": "İşsiz geçirdiği her gün biraz daha karamsar oldu.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00037__Belirtisiz Nesne", "sentence": "İşsiz geçirdiği her gün biraz daha karamsar oldu.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00037__Yüklem", "sentence": "İşsiz geçirdiği her gün biraz daha karamsar oldu.", "question": "Bu cümlenin yüklemi nedir?", "gold": "karamsar oldu"}
+{"id": "ex_00038__Özne", "sentence": "Her tarih eseri, doğrudan doğruya veya dolaylı olarak yazarın hayat tecrübesine bağlıdır.", "question": "Bu cümlenin öznesi nedir?", "gold": "Her tarih eseri"}
+{"id": "ex_00038__Gizli Özne", "sentence": "Her tarih eseri, doğrudan doğruya veya dolaylı olarak yazarın hayat tecrübesine bağlıdır.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00038__Zarf Tümleci", "sentence": "Her tarih eseri, doğrudan doğruya veya dolaylı olarak yazarın hayat tecrübesine bağlıdır.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "doğrudan doğruya veya dolaylı olarak"}
+{"id": "ex_00038__Dolaylı Tümleç", "sentence": "Her tarih eseri, doğrudan doğruya veya dolaylı olarak yazarın hayat tecrübesine bağlıdır.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "yazarın hayat tecrübesine"}
+{"id": "ex_00038__Edat Tümleci", "sentence": "Her tarih eseri, doğrudan doğruya veya dolaylı olarak yazarın hayat tecrübesine bağlıdır.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00038__Belirtili Nesne", "sentence": "Her tarih eseri, doğrudan doğruya veya dolaylı olarak yazarın hayat tecrübesine bağlıdır.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00038__Belirtisiz Nesne", "sentence": "Her tarih eseri, doğrudan doğruya veya dolaylı olarak yazarın hayat tecrübesine bağlıdır.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00038__Yüklem", "sentence": "Her tarih eseri, doğrudan doğruya veya dolaylı olarak yazarın hayat tecrübesine bağlıdır.", "question": "Bu cümlenin yüklemi nedir?", "gold": "bağlıdır"}
+{"id": "ex_00039__Özne", "sentence": "Burada herkes kendi gönlünden olduğu kadar bu tabiatın içinden gelen bir şiiri dinler.", "question": "Bu cümlenin öznesi nedir?", "gold": "herkes"}
+{"id": "ex_00039__Gizli Özne", "sentence": "Burada herkes kendi gönlünden olduğu kadar bu tabiatın içinden gelen bir şiiri dinler.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00039__Zarf Tümleci", "sentence": "Burada herkes kendi gönlünden olduğu kadar bu tabiatın içinden gelen bir şiiri dinler.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00039__Dolaylı Tümleç", "sentence": "Burada herkes kendi gönlünden olduğu kadar bu tabiatın içinden gelen bir şiiri dinler.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "burada"}
+{"id": "ex_00039__Edat Tümleci", "sentence": "Burada herkes kendi gönlünden olduğu kadar bu tabiatın içinden gelen bir şiiri dinler.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00039__Belirtili Nesne", "sentence": "Burada herkes kendi gönlünden olduğu kadar bu tabiatın içinden gelen bir şiiri dinler.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "kendi gönlünden olduğu kadar bu tabiatın içinden gelen bir şiiri"}
+{"id": "ex_00039__Belirtisiz Nesne", "sentence": "Burada herkes kendi gönlünden olduğu kadar bu tabiatın içinden gelen bir şiiri dinler.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00039__Yüklem", "sentence": "Burada herkes kendi gönlünden olduğu kadar bu tabiatın içinden gelen bir şiiri dinler.", "question": "Bu cümlenin yüklemi nedir?", "gold": "dinler"}
+{"id": "ex_00040__Özne", "sentence": "Oturup saatlerce kitap okumayı çok seviyordu.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00040__Gizli Özne", "sentence": "Oturup saatlerce kitap okumayı çok seviyordu.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "O"}
+{"id": "ex_00040__Zarf Tümleci", "sentence": "Oturup saatlerce kitap okumayı çok seviyordu.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "çok"}
+{"id": "ex_00040__Dolaylı Tümleç", "sentence": "Oturup saatlerce kitap okumayı çok seviyordu.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00040__Edat Tümleci", "sentence": "Oturup saatlerce kitap okumayı çok seviyordu.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00040__Belirtili Nesne", "sentence": "Oturup saatlerce kitap okumayı çok seviyordu.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "oturup saatlerce kitap okumayı"}
+{"id": "ex_00040__Belirtisiz Nesne", "sentence": "Oturup saatlerce kitap okumayı çok seviyordu.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00040__Yüklem", "sentence": "Oturup saatlerce kitap okumayı çok seviyordu.", "question": "Bu cümlenin yüklemi nedir?", "gold": "seviyordu"}
+{"id": "ex_00041__Özne", "sentence": "Sayısız bitki türünün bulunduğu bu milli parkı geçen yılın ortasında ünlü sanatçılar ziyaret ettiler.", "question": "Bu cümlenin öznesi nedir?", "gold": "Ünlü sanatçılar"}
+{"id": "ex_00041__Gizli Özne", "sentence": "Sayısız bitki türünün bulunduğu bu milli parkı geçen yılın ortasında ünlü sanatçılar ziyaret ettiler.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00041__Zarf Tümleci", "sentence": "Sayısız bitki türünün bulunduğu bu milli parkı geçen yılın ortasında ünlü sanatçılar ziyaret ettiler.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "geçen yılın ortasında"}
+{"id": "ex_00041__Dolaylı Tümleç", "sentence": "Sayısız bitki türünün bulunduğu bu milli parkı geçen yılın ortasında ünlü sanatçılar ziyaret ettiler.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00041__Edat Tümleci", "sentence": "Sayısız bitki türünün bulunduğu bu milli parkı geçen yılın ortasında ünlü sanatçılar ziyaret ettiler.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00041__Belirtili Nesne", "sentence": "Sayısız bitki türünün bulunduğu bu milli parkı geçen yılın ortasında ünlü sanatçılar ziyaret ettiler.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "sayısız bitki türünün bulunduğu bu milli parkı"}
+{"id": "ex_00041__Belirtisiz Nesne", "sentence": "Sayısız bitki türünün bulunduğu bu milli parkı geçen yılın ortasında ünlü sanatçılar ziyaret ettiler.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00041__Yüklem", "sentence": "Sayısız bitki türünün bulunduğu bu milli parkı geçen yılın ortasında ünlü sanatçılar ziyaret ettiler.", "question": "Bu cümlenin yüklemi nedir?", "gold": "ziyaret ettiler"}
+{"id": "ex_00042__Özne", "sentence": "Sınıflar hafta sonu oldukça güzel bir şekilde süslendi.", "question": "Bu cümlenin öznesi nedir?", "gold": "Sınıflar"}
+{"id": "ex_00042__Gizli Özne", "sentence": "Sınıflar hafta sonu oldukça güzel bir şekilde süslendi.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00042__Zarf Tümleci", "sentence": "Sınıflar hafta sonu oldukça güzel bir şekilde süslendi.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "hafta sonu; oldukça güzel bir şekilde"}
+{"id": "ex_00042__Dolaylı Tümleç", "sentence": "Sınıflar hafta sonu oldukça güzel bir şekilde süslendi.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00042__Edat Tümleci", "sentence": "Sınıflar hafta sonu oldukça güzel bir şekilde süslendi.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00042__Belirtili Nesne", "sentence": "Sınıflar hafta sonu oldukça güzel bir şekilde süslendi.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00042__Belirtisiz Nesne", "sentence": "Sınıflar hafta sonu oldukça güzel bir şekilde süslendi.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00042__Yüklem", "sentence": "Sınıflar hafta sonu oldukça güzel bir şekilde süslendi.", "question": "Bu cümlenin yüklemi nedir?", "gold": "süslendi"}
+{"id": "ex_00043__Özne", "sentence": "Çok geçmeden odaya çevredeki komşular dolmaya başladı.", "question": "Bu cümlenin öznesi nedir?", "gold": "çevredeki komşular"}
+{"id": "ex_00043__Gizli Özne", "sentence": "Çok geçmeden odaya çevredeki komşular dolmaya başladı.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00043__Zarf Tümleci", "sentence": "Çok geçmeden odaya çevredeki komşular dolmaya başladı.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "çok geçmeden"}
+{"id": "ex_00043__Dolaylı Tümleç", "sentence": "Çok geçmeden odaya çevredeki komşular dolmaya başladı.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "odaya; dolmaya"}
+{"id": "ex_00043__Edat Tümleci", "sentence": "Çok geçmeden odaya çevredeki komşular dolmaya başladı.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00043__Belirtili Nesne", "sentence": "Çok geçmeden odaya çevredeki komşular dolmaya başladı.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00043__Belirtisiz Nesne", "sentence": "Çok geçmeden odaya çevredeki komşular dolmaya başladı.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00043__Yüklem", "sentence": "Çok geçmeden odaya çevredeki komşular dolmaya başladı.", "question": "Bu cümlenin yüklemi nedir?", "gold": "başladı"}
+{"id": "ex_00044__Özne", "sentence": "Amca, işte çalışmak istemiyordu.", "question": "Bu cümlenin öznesi nedir?", "gold": "Amca"}
+{"id": "ex_00044__Gizli Özne", "sentence": "Amca, işte çalışmak istemiyordu.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00044__Zarf Tümleci", "sentence": "Amca, işte çalışmak istemiyordu.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00044__Dolaylı Tümleç", "sentence": "Amca, işte çalışmak istemiyordu.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "işte"}
+{"id": "ex_00044__Edat Tümleci", "sentence": "Amca, işte çalışmak istemiyordu.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00044__Belirtili Nesne", "sentence": "Amca, işte çalışmak istemiyordu.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00044__Belirtisiz Nesne", "sentence": "Amca, işte çalışmak istemiyordu.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": "çalışmak"}
+{"id": "ex_00044__Yüklem", "sentence": "Amca, işte çalışmak istemiyordu.", "question": "Bu cümlenin yüklemi nedir?", "gold": "istemiyordu"}
+{"id": "ex_00045__Özne", "sentence": "Sobalı evde eski türküleri dinleyerek büyüdüm.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00045__Gizli Özne", "sentence": "Sobalı evde eski türküleri dinleyerek büyüdüm.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Ben"}
+{"id": "ex_00045__Zarf Tümleci", "sentence": "Sobalı evde eski türküleri dinleyerek büyüdüm.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "eski türküleri dinleyerek"}
+{"id": "ex_00045__Dolaylı Tümleç", "sentence": "Sobalı evde eski türküleri dinleyerek büyüdüm.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "Sobalı evde"}
+{"id": "ex_00045__Edat Tümleci", "sentence": "Sobalı evde eski türküleri dinleyerek büyüdüm.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00045__Belirtili Nesne", "sentence": "Sobalı evde eski türküleri dinleyerek büyüdüm.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "eski türküleri"}
+{"id": "ex_00045__Belirtisiz Nesne", "sentence": "Sobalı evde eski türküleri dinleyerek büyüdüm.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00045__Yüklem", "sentence": "Sobalı evde eski türküleri dinleyerek büyüdüm.", "question": "Bu cümlenin yüklemi nedir?", "gold": "büyüdüm"}
+{"id": "ex_00046__Özne", "sentence": "Sağlığına dikkat etmiyorsun.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00046__Gizli Özne", "sentence": "Sağlığına dikkat etmiyorsun.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Sen"}
+{"id": "ex_00046__Zarf Tümleci", "sentence": "Sağlığına dikkat etmiyorsun.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00046__Dolaylı Tümleç", "sentence": "Sağlığına dikkat etmiyorsun.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "sağlığına"}
+{"id": "ex_00046__Edat Tümleci", "sentence": "Sağlığına dikkat etmiyorsun.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00046__Belirtili Nesne", "sentence": "Sağlığına dikkat etmiyorsun.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00046__Belirtisiz Nesne", "sentence": "Sağlığına dikkat etmiyorsun.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00046__Yüklem", "sentence": "Sağlığına dikkat etmiyorsun.", "question": "Bu cümlenin yüklemi nedir?", "gold": "dikkat etmiyorsun"}
+{"id": "ex_00047__Özne", "sentence": "Onca sıkıntıya rağmen bu adama yıllarca katlandı.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00047__Gizli Özne", "sentence": "Onca sıkıntıya rağmen bu adama yıllarca katlandı.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "O"}
+{"id": "ex_00047__Zarf Tümleci", "sentence": "Onca sıkıntıya rağmen bu adama yıllarca katlandı.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "Onca sıkıntıya rağmen; yıllarca"}
+{"id": "ex_00047__Dolaylı Tümleç", "sentence": "Onca sıkıntıya rağmen bu adama yıllarca katlandı.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00047__Edat Tümleci", "sentence": "Onca sıkıntıya rağmen bu adama yıllarca katlandı.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00047__Belirtili Nesne", "sentence": "Onca sıkıntıya rağmen bu adama yıllarca katlandı.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00047__Belirtisiz Nesne", "sentence": "Onca sıkıntıya rağmen bu adama yıllarca katlandı.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00047__Yüklem", "sentence": "Onca sıkıntıya rağmen bu adama yıllarca katlandı.", "question": "Bu cümlenin yüklemi nedir?", "gold": "katlandı"}
+{"id": "ex_00048__Özne", "sentence": "Adam evini satmayı düşünmüyormuş.", "question": "Bu cümlenin öznesi nedir?", "gold": "Adam"}
+{"id": "ex_00048__Gizli Özne", "sentence": "Adam evini satmayı düşünmüyormuş.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00048__Zarf Tümleci", "sentence": "Adam evini satmayı düşünmüyormuş.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00048__Dolaylı Tümleç", "sentence": "Adam evini satmayı düşünmüyormuş.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00048__Edat Tümleci", "sentence": "Adam evini satmayı düşünmüyormuş.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00048__Belirtili Nesne", "sentence": "Adam evini satmayı düşünmüyormuş.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "evini satmayı"}
+{"id": "ex_00048__Belirtisiz Nesne", "sentence": "Adam evini satmayı düşünmüyormuş.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00048__Yüklem", "sentence": "Adam evini satmayı düşünmüyormuş.", "question": "Bu cümlenin yüklemi nedir?", "gold": "düşünmüyormuş"}
+{"id": "ex_00049__Özne", "sentence": "Selim yeni bilgisayar almış.", "question": "Bu cümlenin öznesi nedir?", "gold": "Selim"}
+{"id": "ex_00049__Gizli Özne", "sentence": "Selim yeni bilgisayar almış.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00049__Zarf Tümleci", "sentence": "Selim yeni bilgisayar almış.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00049__Dolaylı Tümleç", "sentence": "Selim yeni bilgisayar almış.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00049__Edat Tümleci", "sentence": "Selim yeni bilgisayar almış.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00049__Belirtili Nesne", "sentence": "Selim yeni bilgisayar almış.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00049__Belirtisiz Nesne", "sentence": "Selim yeni bilgisayar almış.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": "yeni bilgisayar"}
+{"id": "ex_00049__Yüklem", "sentence": "Selim yeni bilgisayar almış.", "question": "Bu cümlenin yüklemi nedir?", "gold": "almış"}
+{"id": "ex_00050__Özne", "sentence": "Oyun oynamak istedi.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00050__Gizli Özne", "sentence": "Oyun oynamak istedi.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "O"}
+{"id": "ex_00050__Zarf Tümleci", "sentence": "Oyun oynamak istedi.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00050__Dolaylı Tümleç", "sentence": "Oyun oynamak istedi.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00050__Edat Tümleci", "sentence": "Oyun oynamak istedi.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00050__Belirtili Nesne", "sentence": "Oyun oynamak istedi.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00050__Belirtisiz Nesne", "sentence": "Oyun oynamak istedi.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": "oyun oynamak"}
+{"id": "ex_00050__Yüklem", "sentence": "Oyun oynamak istedi.", "question": "Bu cümlenin yüklemi nedir?", "gold": "istedi"}
+{"id": "ex_00051__Özne", "sentence": "Sisli bir sabah vakti, dışarıdan araba sesleri geliyor.", "question": "Bu cümlenin öznesi nedir?", "gold": "araba sesleri"}
+{"id": "ex_00051__Gizli Özne", "sentence": "Sisli bir sabah vakti, dışarıdan araba sesleri geliyor.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00051__Zarf Tümleci", "sentence": "Sisli bir sabah vakti, dışarıdan araba sesleri geliyor.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "Sisli bir sabah vakti"}
+{"id": "ex_00051__Dolaylı Tümleç", "sentence": "Sisli bir sabah vakti, dışarıdan araba sesleri geliyor.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "dışarıdan"}
+{"id": "ex_00051__Edat Tümleci", "sentence": "Sisli bir sabah vakti, dışarıdan araba sesleri geliyor.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00051__Belirtili Nesne", "sentence": "Sisli bir sabah vakti, dışarıdan araba sesleri geliyor.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00051__Belirtisiz Nesne", "sentence": "Sisli bir sabah vakti, dışarıdan araba sesleri geliyor.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00051__Yüklem", "sentence": "Sisli bir sabah vakti, dışarıdan araba sesleri geliyor.", "question": "Bu cümlenin yüklemi nedir?", "gold": "geliyor"}
+{"id": "ex_00052__Özne", "sentence": "Planlı çalışmalısın ki başarılı olabilesin.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00052__Gizli Özne", "sentence": "Planlı çalışmalısın ki başarılı olabilesin.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Sen"}
+{"id": "ex_00052__Zarf Tümleci", "sentence": "Planlı çalışmalısın ki başarılı olabilesin.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "planlı çalışmalısın ki"}
+{"id": "ex_00052__Dolaylı Tümleç", "sentence": "Planlı çalışmalısın ki başarılı olabilesin.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00052__Edat Tümleci", "sentence": "Planlı çalışmalısın ki başarılı olabilesin.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00052__Belirtili Nesne", "sentence": "Planlı çalışmalısın ki başarılı olabilesin.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00052__Belirtisiz Nesne", "sentence": "Planlı çalışmalısın ki başarılı olabilesin.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00052__Yüklem", "sentence": "Planlı çalışmalısın ki başarılı olabilesin.", "question": "Bu cümlenin yüklemi nedir?", "gold": "başarılı olabilesin"}
+{"id": "ex_00053__Özne", "sentence": "Akla karayı seçtim ilk soruyu çözerken.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00053__Gizli Özne", "sentence": "Akla karayı seçtim ilk soruyu çözerken.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Ben"}
+{"id": "ex_00053__Zarf Tümleci", "sentence": "Akla karayı seçtim ilk soruyu çözerken.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "ilk soruyu çözerken"}
+{"id": "ex_00053__Dolaylı Tümleç", "sentence": "Akla karayı seçtim ilk soruyu çözerken.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00053__Edat Tümleci", "sentence": "Akla karayı seçtim ilk soruyu çözerken.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00053__Belirtili Nesne", "sentence": "Akla karayı seçtim ilk soruyu çözerken.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00053__Belirtisiz Nesne", "sentence": "Akla karayı seçtim ilk soruyu çözerken.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00053__Yüklem", "sentence": "Akla karayı seçtim ilk soruyu çözerken.", "question": "Bu cümlenin yüklemi nedir?", "gold": "akla karayı seçtim"}
+{"id": "ex_00054__Özne", "sentence": "Ders tekrarı yaptım.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00054__Gizli Özne", "sentence": "Ders tekrarı yaptım.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Ben"}
+{"id": "ex_00054__Zarf Tümleci", "sentence": "Ders tekrarı yaptım.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00054__Dolaylı Tümleç", "sentence": "Ders tekrarı yaptım.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00054__Edat Tümleci", "sentence": "Ders tekrarı yaptım.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00054__Belirtili Nesne", "sentence": "Ders tekrarı yaptım.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00054__Belirtisiz Nesne", "sentence": "Ders tekrarı yaptım.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": "ders tekrarı"}
+{"id": "ex_00054__Yüklem", "sentence": "Ders tekrarı yaptım.", "question": "Bu cümlenin yüklemi nedir?", "gold": "yaptım"}
+{"id": "ex_00055__Özne", "sentence": "El sallayan insanları gemiden seyrediyorum.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00055__Gizli Özne", "sentence": "El sallayan insanları gemiden seyrediyorum.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Ben"}
+{"id": "ex_00055__Zarf Tümleci", "sentence": "El sallayan insanları gemiden seyrediyorum.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00055__Dolaylı Tümleç", "sentence": "El sallayan insanları gemiden seyrediyorum.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "gemiden"}
+{"id": "ex_00055__Edat Tümleci", "sentence": "El sallayan insanları gemiden seyrediyorum.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00055__Belirtili Nesne", "sentence": "El sallayan insanları gemiden seyrediyorum.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "El sallayan insanları"}
+{"id": "ex_00055__Belirtisiz Nesne", "sentence": "El sallayan insanları gemiden seyrediyorum.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00055__Yüklem", "sentence": "El sallayan insanları gemiden seyrediyorum.", "question": "Bu cümlenin yüklemi nedir?", "gold": "seyrediyorum"}
+{"id": "ex_00056__Özne", "sentence": "Babam bu şehrin en iyi diş doktoruymuş.", "question": "Bu cümlenin öznesi nedir?", "gold": "Babam"}
+{"id": "ex_00056__Gizli Özne", "sentence": "Babam bu şehrin en iyi diş doktoruymuş.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00056__Zarf Tümleci", "sentence": "Babam bu şehrin en iyi diş doktoruymuş.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00056__Dolaylı Tümleç", "sentence": "Babam bu şehrin en iyi diş doktoruymuş.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00056__Edat Tümleci", "sentence": "Babam bu şehrin en iyi diş doktoruymuş.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00056__Belirtili Nesne", "sentence": "Babam bu şehrin en iyi diş doktoruymuş.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00056__Belirtisiz Nesne", "sentence": "Babam bu şehrin en iyi diş doktoruymuş.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00056__Yüklem", "sentence": "Babam bu şehrin en iyi diş doktoruymuş.", "question": "Bu cümlenin yüklemi nedir?", "gold": "bu şehrin en iyi diş doktoruymuş"}
+{"id": "ex_00057__Özne", "sentence": "Niyetini anlamıştım.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00057__Gizli Özne", "sentence": "Niyetini anlamıştım.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Ben"}
+{"id": "ex_00057__Zarf Tümleci", "sentence": "Niyetini anlamıştım.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00057__Dolaylı Tümleç", "sentence": "Niyetini anlamıştım.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00057__Edat Tümleci", "sentence": "Niyetini anlamıştım.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00057__Belirtili Nesne", "sentence": "Niyetini anlamıştım.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "niyetini"}
+{"id": "ex_00057__Belirtisiz Nesne", "sentence": "Niyetini anlamıştım.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00057__Yüklem", "sentence": "Niyetini anlamıştım.", "question": "Bu cümlenin yüklemi nedir?", "gold": "anlamıştım"}
+{"id": "ex_00058__Özne", "sentence": "Uzaklardan dalga dalga kuş sesleri geliyor.", "question": "Bu cümlenin öznesi nedir?", "gold": "kuş sesleri"}
+{"id": "ex_00058__Gizli Özne", "sentence": "Uzaklardan dalga dalga kuş sesleri geliyor.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00058__Zarf Tümleci", "sentence": "Uzaklardan dalga dalga kuş sesleri geliyor.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "dalga dalga"}
+{"id": "ex_00058__Dolaylı Tümleç", "sentence": "Uzaklardan dalga dalga kuş sesleri geliyor.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "Uzaklardan"}
+{"id": "ex_00058__Edat Tümleci", "sentence": "Uzaklardan dalga dalga kuş sesleri geliyor.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00058__Belirtili Nesne", "sentence": "Uzaklardan dalga dalga kuş sesleri geliyor.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00058__Belirtisiz Nesne", "sentence": "Uzaklardan dalga dalga kuş sesleri geliyor.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00058__Yüklem", "sentence": "Uzaklardan dalga dalga kuş sesleri geliyor.", "question": "Bu cümlenin yüklemi nedir?", "gold": "geliyor"}
+{"id": "ex_00059__Özne", "sentence": "Artık ne sizi, ne de onu arayacağım.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00059__Gizli Özne", "sentence": "Artık ne sizi, ne de onu arayacağım.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Ben"}
+{"id": "ex_00059__Zarf Tümleci", "sentence": "Artık ne sizi, ne de onu arayacağım.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "Artık"}
+{"id": "ex_00059__Dolaylı Tümleç", "sentence": "Artık ne sizi, ne de onu arayacağım.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00059__Edat Tümleci", "sentence": "Artık ne sizi, ne de onu arayacağım.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00059__Belirtili Nesne", "sentence": "Artık ne sizi, ne de onu arayacağım.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "ne sizi; ne de onu"}
+{"id": "ex_00059__Belirtisiz Nesne", "sentence": "Artık ne sizi, ne de onu arayacağım.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00059__Yüklem", "sentence": "Artık ne sizi, ne de onu arayacağım.", "question": "Bu cümlenin yüklemi nedir?", "gold": "arayacağım"}
+{"id": "ex_00060__Özne", "sentence": "Öğretmenler soruları hazırlamıştı.", "question": "Bu cümlenin öznesi nedir?", "gold": "Öğretmenler"}
+{"id": "ex_00060__Gizli Özne", "sentence": "Öğretmenler soruları hazırlamıştı.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00060__Zarf Tümleci", "sentence": "Öğretmenler soruları hazırlamıştı.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00060__Dolaylı Tümleç", "sentence": "Öğretmenler soruları hazırlamıştı.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00060__Edat Tümleci", "sentence": "Öğretmenler soruları hazırlamıştı.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00060__Belirtili Nesne", "sentence": "Öğretmenler soruları hazırlamıştı.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "soruları"}
+{"id": "ex_00060__Belirtisiz Nesne", "sentence": "Öğretmenler soruları hazırlamıştı.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00060__Yüklem", "sentence": "Öğretmenler soruları hazırlamıştı.", "question": "Bu cümlenin yüklemi nedir?", "gold": "hazırlamıştı"}
+{"id": "ex_00061__Özne", "sentence": "Davul bile dengi dengine…", "question": "Bu cümlenin öznesi nedir?", "gold": "Davul"}
+{"id": "ex_00061__Gizli Özne", "sentence": "Davul bile dengi dengine…", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00061__Zarf Tümleci", "sentence": "Davul bile dengi dengine…", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "bile"}
+{"id": "ex_00061__Dolaylı Tümleç", "sentence": "Davul bile dengi dengine…", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00061__Edat Tümleci", "sentence": "Davul bile dengi dengine…", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00061__Belirtili Nesne", "sentence": "Davul bile dengi dengine…", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00061__Belirtisiz Nesne", "sentence": "Davul bile dengi dengine…", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00061__Yüklem", "sentence": "Davul bile dengi dengine…", "question": "Bu cümlenin yüklemi nedir?", "gold": "dengi dengine"}
+{"id": "ex_00062__Özne", "sentence": "Dünkü sınavda sen yok muydun?", "question": "Bu cümlenin öznesi nedir?", "gold": "sen"}
+{"id": "ex_00062__Gizli Özne", "sentence": "Dünkü sınavda sen yok muydun?", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00062__Zarf Tümleci", "sentence": "Dünkü sınavda sen yok muydun?", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "Dünkü sınavda"}
+{"id": "ex_00062__Dolaylı Tümleç", "sentence": "Dünkü sınavda sen yok muydun?", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00062__Edat Tümleci", "sentence": "Dünkü sınavda sen yok muydun?", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00062__Belirtili Nesne", "sentence": "Dünkü sınavda sen yok muydun?", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00062__Belirtisiz Nesne", "sentence": "Dünkü sınavda sen yok muydun?", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00062__Yüklem", "sentence": "Dünkü sınavda sen yok muydun?", "question": "Bu cümlenin yüklemi nedir?", "gold": "yok muydun"}
+{"id": "ex_00063__Özne", "sentence": "Çaya gelen misafirler öğleden sonra gittiler.", "question": "Bu cümlenin öznesi nedir?", "gold": "Çaya gelen misafirler"}
+{"id": "ex_00063__Gizli Özne", "sentence": "Çaya gelen misafirler öğleden sonra gittiler.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00063__Zarf Tümleci", "sentence": "Çaya gelen misafirler öğleden sonra gittiler.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "öğleden sonra"}
+{"id": "ex_00063__Dolaylı Tümleç", "sentence": "Çaya gelen misafirler öğleden sonra gittiler.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00063__Edat Tümleci", "sentence": "Çaya gelen misafirler öğleden sonra gittiler.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00063__Belirtili Nesne", "sentence": "Çaya gelen misafirler öğleden sonra gittiler.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00063__Belirtisiz Nesne", "sentence": "Çaya gelen misafirler öğleden sonra gittiler.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00063__Yüklem", "sentence": "Çaya gelen misafirler öğleden sonra gittiler.", "question": "Bu cümlenin yüklemi nedir?", "gold": "gittiler"}
+{"id": "ex_00064__Özne", "sentence": "Bütün bunları ben mi yapmışım.", "question": "Bu cümlenin öznesi nedir?", "gold": "ben mi"}
+{"id": "ex_00064__Gizli Özne", "sentence": "Bütün bunları ben mi yapmışım.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00064__Zarf Tümleci", "sentence": "Bütün bunları ben mi yapmışım.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00064__Dolaylı Tümleç", "sentence": "Bütün bunları ben mi yapmışım.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00064__Edat Tümleci", "sentence": "Bütün bunları ben mi yapmışım.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00064__Belirtili Nesne", "sentence": "Bütün bunları ben mi yapmışım.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "Bütün bunları"}
+{"id": "ex_00064__Belirtisiz Nesne", "sentence": "Bütün bunları ben mi yapmışım.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00064__Yüklem", "sentence": "Bütün bunları ben mi yapmışım.", "question": "Bu cümlenin yüklemi nedir?", "gold": "yapmışım"}
+{"id": "ex_00065__Özne", "sentence": "Çocuklarının olması beni mutlu etti.", "question": "Bu cümlenin öznesi nedir?", "gold": "Çocuklarının olması"}
+{"id": "ex_00065__Gizli Özne", "sentence": "Çocuklarının olması beni mutlu etti.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00065__Zarf Tümleci", "sentence": "Çocuklarının olması beni mutlu etti.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00065__Dolaylı Tümleç", "sentence": "Çocuklarının olması beni mutlu etti.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00065__Edat Tümleci", "sentence": "Çocuklarının olması beni mutlu etti.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00065__Belirtili Nesne", "sentence": "Çocuklarının olması beni mutlu etti.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "beni"}
+{"id": "ex_00065__Belirtisiz Nesne", "sentence": "Çocuklarının olması beni mutlu etti.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00065__Yüklem", "sentence": "Çocuklarının olması beni mutlu etti.", "question": "Bu cümlenin yüklemi nedir?", "gold": "mutlu etti"}
+{"id": "ex_00066__Özne", "sentence": "Kötü günleri geride bıraktık.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00066__Gizli Özne", "sentence": "Kötü günleri geride bıraktık.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Biz"}
+{"id": "ex_00066__Zarf Tümleci", "sentence": "Kötü günleri geride bıraktık.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00066__Dolaylı Tümleç", "sentence": "Kötü günleri geride bıraktık.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "geride"}
+{"id": "ex_00066__Edat Tümleci", "sentence": "Kötü günleri geride bıraktık.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00066__Belirtili Nesne", "sentence": "Kötü günleri geride bıraktık.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "kötü günleri"}
+{"id": "ex_00066__Belirtisiz Nesne", "sentence": "Kötü günleri geride bıraktık.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00066__Yüklem", "sentence": "Kötü günleri geride bıraktık.", "question": "Bu cümlenin yüklemi nedir?", "gold": "bıraktık"}
+{"id": "ex_00067__Özne", "sentence": "Ahşaptan yapılmış, tek katlı, bahçeli bir ev hayal ediyorum.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00067__Gizli Özne", "sentence": "Ahşaptan yapılmış, tek katlı, bahçeli bir ev hayal ediyorum.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Ben"}
+{"id": "ex_00067__Zarf Tümleci", "sentence": "Ahşaptan yapılmış, tek katlı, bahçeli bir ev hayal ediyorum.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00067__Dolaylı Tümleç", "sentence": "Ahşaptan yapılmış, tek katlı, bahçeli bir ev hayal ediyorum.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00067__Edat Tümleci", "sentence": "Ahşaptan yapılmış, tek katlı, bahçeli bir ev hayal ediyorum.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00067__Belirtili Nesne", "sentence": "Ahşaptan yapılmış, tek katlı, bahçeli bir ev hayal ediyorum.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00067__Belirtisiz Nesne", "sentence": "Ahşaptan yapılmış, tek katlı, bahçeli bir ev hayal ediyorum.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": "Ahşaptan yapılmış, tek katlı, bahçeli bir ev"}
+{"id": "ex_00067__Yüklem", "sentence": "Ahşaptan yapılmış, tek katlı, bahçeli bir ev hayal ediyorum.", "question": "Bu cümlenin yüklemi nedir?", "gold": "hayal ediyorum"}
+{"id": "ex_00068__Özne", "sentence": "Dün baktığım belgesel, köyde yaşayan insanların hayat mücadelesini anlatıyordu.", "question": "Bu cümlenin öznesi nedir?", "gold": "Dün baktığım belgesel"}
+{"id": "ex_00068__Gizli Özne", "sentence": "Dün baktığım belgesel, köyde yaşayan insanların hayat mücadelesini anlatıyordu.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00068__Zarf Tümleci", "sentence": "Dün baktığım belgesel, köyde yaşayan insanların hayat mücadelesini anlatıyordu.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00068__Dolaylı Tümleç", "sentence": "Dün baktığım belgesel, köyde yaşayan insanların hayat mücadelesini anlatıyordu.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00068__Edat Tümleci", "sentence": "Dün baktığım belgesel, köyde yaşayan insanların hayat mücadelesini anlatıyordu.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00068__Belirtili Nesne", "sentence": "Dün baktığım belgesel, köyde yaşayan insanların hayat mücadelesini anlatıyordu.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "köyde yaşayan insanların hayat mücadelesini"}
+{"id": "ex_00068__Belirtisiz Nesne", "sentence": "Dün baktığım belgesel, köyde yaşayan insanların hayat mücadelesini anlatıyordu.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00068__Yüklem", "sentence": "Dün baktığım belgesel, köyde yaşayan insanların hayat mücadelesini anlatıyordu.", "question": "Bu cümlenin yüklemi nedir?", "gold": "anlatıyordu"}
+{"id": "ex_00069__Özne", "sentence": "Doğal gaz haberini, televizyonlar son dakika olarak verdi.", "question": "Bu cümlenin öznesi nedir?", "gold": "televizyonlar"}
+{"id": "ex_00069__Gizli Özne", "sentence": "Doğal gaz haberini, televizyonlar son dakika olarak verdi.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00069__Zarf Tümleci", "sentence": "Doğal gaz haberini, televizyonlar son dakika olarak verdi.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "son dakika olarak"}
+{"id": "ex_00069__Dolaylı Tümleç", "sentence": "Doğal gaz haberini, televizyonlar son dakika olarak verdi.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00069__Edat Tümleci", "sentence": "Doğal gaz haberini, televizyonlar son dakika olarak verdi.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00069__Belirtili Nesne", "sentence": "Doğal gaz haberini, televizyonlar son dakika olarak verdi.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "Doğal gaz haberini"}
+{"id": "ex_00069__Belirtisiz Nesne", "sentence": "Doğal gaz haberini, televizyonlar son dakika olarak verdi.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00069__Yüklem", "sentence": "Doğal gaz haberini, televizyonlar son dakika olarak verdi.", "question": "Bu cümlenin yüklemi nedir?", "gold": "verdi"}
+{"id": "ex_00070__Özne", "sentence": "Ben onu çok severdim; ancak o benden nefret ederdi.", "question": "Bu cümlenin öznesi nedir?", "gold": "Ben; o"}
+{"id": "ex_00070__Gizli Özne", "sentence": "Ben onu çok severdim; ancak o benden nefret ederdi.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00070__Zarf Tümleci", "sentence": "Ben onu çok severdim; ancak o benden nefret ederdi.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "çok"}
+{"id": "ex_00070__Dolaylı Tümleç", "sentence": "Ben onu çok severdim; ancak o benden nefret ederdi.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "benden"}
+{"id": "ex_00070__Edat Tümleci", "sentence": "Ben onu çok severdim; ancak o benden nefret ederdi.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00070__Belirtili Nesne", "sentence": "Ben onu çok severdim; ancak o benden nefret ederdi.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "onu"}
+{"id": "ex_00070__Belirtisiz Nesne", "sentence": "Ben onu çok severdim; ancak o benden nefret ederdi.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00070__Yüklem", "sentence": "Ben onu çok severdim; ancak o benden nefret ederdi.", "question": "Bu cümlenin yüklemi nedir?", "gold": "severdim; nefret ederdi"}
+{"id": "ex_00071__Özne", "sentence": "Eleştiri Türk yazının da çok azdır; yok denecek kadar azdır.", "question": "Bu cümlenin öznesi nedir?", "gold": "Eleştiri"}
+{"id": "ex_00071__Gizli Özne", "sentence": "Eleştiri Türk yazının da çok azdır; yok denecek kadar azdır.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00071__Zarf Tümleci", "sentence": "Eleştiri Türk yazının da çok azdır; yok denecek kadar azdır.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00071__Dolaylı Tümleç", "sentence": "Eleştiri Türk yazının da çok azdır; yok denecek kadar azdır.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "Türk yazının da"}
+{"id": "ex_00071__Edat Tümleci", "sentence": "Eleştiri Türk yazının da çok azdır; yok denecek kadar azdır.", "question": "Bu cümlenin edat tümleci nedir?", "gold": "yok denecek kadar"}
+{"id": "ex_00071__Belirtili Nesne", "sentence": "Eleştiri Türk yazının da çok azdır; yok denecek kadar azdır.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00071__Belirtisiz Nesne", "sentence": "Eleştiri Türk yazının da çok azdır; yok denecek kadar azdır.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00071__Yüklem", "sentence": "Eleştiri Türk yazının da çok azdır; yok denecek kadar azdır.", "question": "Bu cümlenin yüklemi nedir?", "gold": "çok azdır; azdır"}
+{"id": "ex_00072__Özne", "sentence": "Turizm sezonu başlayınca sahilden ev kiralayacağız.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00072__Gizli Özne", "sentence": "Turizm sezonu başlayınca sahilden ev kiralayacağız.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00072__Zarf Tümleci", "sentence": "Turizm sezonu başlayınca sahilden ev kiralayacağız.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "Turizm sezonu başlayınca"}
+{"id": "ex_00072__Dolaylı Tümleç", "sentence": "Turizm sezonu başlayınca sahilden ev kiralayacağız.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": "sahilden"}
+{"id": "ex_00072__Edat Tümleci", "sentence": "Turizm sezonu başlayınca sahilden ev kiralayacağız.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00072__Belirtili Nesne", "sentence": "Turizm sezonu başlayınca sahilden ev kiralayacağız.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00072__Belirtisiz Nesne", "sentence": "Turizm sezonu başlayınca sahilden ev kiralayacağız.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": "ev"}
+{"id": "ex_00072__Yüklem", "sentence": "Turizm sezonu başlayınca sahilden ev kiralayacağız.", "question": "Bu cümlenin yüklemi nedir?", "gold": "kiralayacağız"}
+{"id": "ex_00073__Özne", "sentence": "Okulu beğendim.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00073__Gizli Özne", "sentence": "Okulu beğendim.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "Ben"}
+{"id": "ex_00073__Zarf Tümleci", "sentence": "Okulu beğendim.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00073__Dolaylı Tümleç", "sentence": "Okulu beğendim.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00073__Edat Tümleci", "sentence": "Okulu beğendim.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00073__Belirtili Nesne", "sentence": "Okulu beğendim.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "okulu"}
+{"id": "ex_00073__Belirtisiz Nesne", "sentence": "Okulu beğendim.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00073__Yüklem", "sentence": "Okulu beğendim.", "question": "Bu cümlenin yüklemi nedir?", "gold": "beğendim"}
+{"id": "ex_00074__Özne", "sentence": "Uzun yıllar boyunca kimse tarafından fark edilmeyen bu davranış, sonunda herkesin dikkatini çekti.", "question": "Bu cümlenin öznesi nedir?", "gold": "Uzun yıllar boyunca kimse tarafından fark edilmeyen bu davranış"}
+{"id": "ex_00074__Gizli Özne", "sentence": "Uzun yıllar boyunca kimse tarafından fark edilmeyen bu davranış, sonunda herkesin dikkatini çekti.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00074__Zarf Tümleci", "sentence": "Uzun yıllar boyunca kimse tarafından fark edilmeyen bu davranış, sonunda herkesin dikkatini çekti.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "sonunda"}
+{"id": "ex_00074__Dolaylı Tümleç", "sentence": "Uzun yıllar boyunca kimse tarafından fark edilmeyen bu davranış, sonunda herkesin dikkatini çekti.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00074__Edat Tümleci", "sentence": "Uzun yıllar boyunca kimse tarafından fark edilmeyen bu davranış, sonunda herkesin dikkatini çekti.", "question": "Bu cümlenin edat tümleci nedir?", "gold": "kimse tarafından"}
+{"id": "ex_00074__Belirtili Nesne", "sentence": "Uzun yıllar boyunca kimse tarafından fark edilmeyen bu davranış, sonunda herkesin dikkatini çekti.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "herkesin dikkatini"}
+{"id": "ex_00074__Belirtisiz Nesne", "sentence": "Uzun yıllar boyunca kimse tarafından fark edilmeyen bu davranış, sonunda herkesin dikkatini çekti.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00074__Yüklem", "sentence": "Uzun yıllar boyunca kimse tarafından fark edilmeyen bu davranış, sonunda herkesin dikkatini çekti.", "question": "Bu cümlenin yüklemi nedir?", "gold": "çekti"}
+{"id": "ex_00075__Özne", "sentence": "Sınavdan düşük not alacağını bildiği hâlde, hiçbir şey belli etmeden ders çalışmaya devam etti.", "question": "Bu cümlenin öznesi nedir?", "gold": ""}
+{"id": "ex_00075__Gizli Özne", "sentence": "Sınavdan düşük not alacağını bildiği hâlde, hiçbir şey belli etmeden ders çalışmaya devam etti.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": "O"}
+{"id": "ex_00075__Zarf Tümleci", "sentence": "Sınavdan düşük not alacağını bildiği hâlde, hiçbir şey belli etmeden ders çalışmaya devam etti.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "Sınavdan düşük not alacağını bildiği hâlde; hiçbir şey belli etmeden"}
+{"id": "ex_00075__Dolaylı Tümleç", "sentence": "Sınavdan düşük not alacağını bildiği hâlde, hiçbir şey belli etmeden ders çalışmaya devam etti.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00075__Edat Tümleci", "sentence": "Sınavdan düşük not alacağını bildiği hâlde, hiçbir şey belli etmeden ders çalışmaya devam etti.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00075__Belirtili Nesne", "sentence": "Sınavdan düşük not alacağını bildiği hâlde, hiçbir şey belli etmeden ders çalışmaya devam etti.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00075__Belirtisiz Nesne", "sentence": "Sınavdan düşük not alacağını bildiği hâlde, hiçbir şey belli etmeden ders çalışmaya devam etti.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": "ders çalışmaya"}
+{"id": "ex_00075__Yüklem", "sentence": "Sınavdan düşük not alacağını bildiği hâlde, hiçbir şey belli etmeden ders çalışmaya devam etti.", "question": "Bu cümlenin yüklemi nedir?", "gold": "devam etti"}
+{"id": "ex_00076__Özne", "sentence": "Kapının önünde saatlerce bekleyen adamın içeri alınmaması herkesi şaşırttı.", "question": "Bu cümlenin öznesi nedir?", "gold": "Kapının önünde saatlerce bekleyen adamın içeri alınmaması"}
+{"id": "ex_00076__Gizli Özne", "sentence": "Kapının önünde saatlerce bekleyen adamın içeri alınmaması herkesi şaşırttı.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00076__Zarf Tümleci", "sentence": "Kapının önünde saatlerce bekleyen adamın içeri alınmaması herkesi şaşırttı.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": ""}
+{"id": "ex_00076__Dolaylı Tümleç", "sentence": "Kapının önünde saatlerce bekleyen adamın içeri alınmaması herkesi şaşırttı.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00076__Edat Tümleci", "sentence": "Kapının önünde saatlerce bekleyen adamın içeri alınmaması herkesi şaşırttı.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00076__Belirtili Nesne", "sentence": "Kapının önünde saatlerce bekleyen adamın içeri alınmaması herkesi şaşırttı.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "herkesi"}
+{"id": "ex_00076__Belirtisiz Nesne", "sentence": "Kapının önünde saatlerce bekleyen adamın içeri alınmaması herkesi şaşırttı.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00076__Yüklem", "sentence": "Kapının önünde saatlerce bekleyen adamın içeri alınmaması herkesi şaşırttı.", "question": "Bu cümlenin yüklemi nedir?", "gold": "şaşırttı"}
+{"id": "ex_00077__Özne", "sentence": "Ne söylenirse söylensin, bu konunun bugün burada tartışılması doğru değildir.", "question": "Bu cümlenin öznesi nedir?", "gold": "bu konunun bugün burada tartışılması"}
+{"id": "ex_00077__Gizli Özne", "sentence": "Ne söylenirse söylensin, bu konunun bugün burada tartışılması doğru değildir.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00077__Zarf Tümleci", "sentence": "Ne söylenirse söylensin, bu konunun bugün burada tartışılması doğru değildir.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "Ne söylenirse söylensin; bugün; burada"}
+{"id": "ex_00077__Dolaylı Tümleç", "sentence": "Ne söylenirse söylensin, bu konunun bugün burada tartışılması doğru değildir.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00077__Edat Tümleci", "sentence": "Ne söylenirse söylensin, bu konunun bugün burada tartışılması doğru değildir.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00077__Belirtili Nesne", "sentence": "Ne söylenirse söylensin, bu konunun bugün burada tartışılması doğru değildir.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00077__Belirtisiz Nesne", "sentence": "Ne söylenirse söylensin, bu konunun bugün burada tartışılması doğru değildir.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00077__Yüklem", "sentence": "Ne söylenirse söylensin, bu konunun bugün burada tartışılması doğru değildir.", "question": "Bu cümlenin yüklemi nedir?", "gold": "doğru değildir"}
+{"id": "ex_00078__Özne", "sentence": "Yaşanan bunca olaya rağmen onun hâlâ sessiz kalması beni endişelendiriyor.", "question": "Bu cümlenin öznesi nedir?", "gold": "onun hâlâ sessiz kalması"}
+{"id": "ex_00078__Gizli Özne", "sentence": "Yaşanan bunca olaya rağmen onun hâlâ sessiz kalması beni endişelendiriyor.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00078__Zarf Tümleci", "sentence": "Yaşanan bunca olaya rağmen onun hâlâ sessiz kalması beni endişelendiriyor.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "Yaşanan bunca olaya rağmen"}
+{"id": "ex_00078__Dolaylı Tümleç", "sentence": "Yaşanan bunca olaya rağmen onun hâlâ sessiz kalması beni endişelendiriyor.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00078__Edat Tümleci", "sentence": "Yaşanan bunca olaya rağmen onun hâlâ sessiz kalması beni endişelendiriyor.", "question": "Bu cümlenin edat tümleci nedir?", "gold": ""}
+{"id": "ex_00078__Belirtili Nesne", "sentence": "Yaşanan bunca olaya rağmen onun hâlâ sessiz kalması beni endişelendiriyor.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": "beni"}
+{"id": "ex_00078__Belirtisiz Nesne", "sentence": "Yaşanan bunca olaya rağmen onun hâlâ sessiz kalması beni endişelendiriyor.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00078__Yüklem", "sentence": "Yaşanan bunca olaya rağmen onun hâlâ sessiz kalması beni endişelendiriyor.", "question": "Bu cümlenin yüklemi nedir?", "gold": "endişelendiriyor"}
+{"id": "ex_00079__Özne", "sentence": "Defalarca uyarılmasına karşın kurallara uymayan öğrenciler hakkında işlem başlatıldı.", "question": "Bu cümlenin öznesi nedir?", "gold": "kurallara uymayan öğrenciler hakkında işlem"}
+{"id": "ex_00079__Gizli Özne", "sentence": "Defalarca uyarılmasına karşın kurallara uymayan öğrenciler hakkında işlem başlatıldı.", "question": "Bu cümlenin gizli öznesi nedir?", "gold": ""}
+{"id": "ex_00079__Zarf Tümleci", "sentence": "Defalarca uyarılmasına karşın kurallara uymayan öğrenciler hakkında işlem başlatıldı.", "question": "Bu cümlenin zarf tümleci nedir?", "gold": "Defalarca"}
+{"id": "ex_00079__Dolaylı Tümleç", "sentence": "Defalarca uyarılmasına karşın kurallara uymayan öğrenciler hakkında işlem başlatıldı.", "question": "Bu cümlenin dolaylı tümleci nedir?", "gold": ""}
+{"id": "ex_00079__Edat Tümleci", "sentence": "Defalarca uyarılmasına karşın kurallara uymayan öğrenciler hakkında işlem başlatıldı.", "question": "Bu cümlenin edat tümleci nedir?", "gold": "uyarılmasına karşın"}
+{"id": "ex_00079__Belirtili Nesne", "sentence": "Defalarca uyarılmasına karşın kurallara uymayan öğrenciler hakkında işlem başlatıldı.", "question": "Bu cümlenin belirtili nesnesi nedir?", "gold": ""}
+{"id": "ex_00079__Belirtisiz Nesne", "sentence": "Defalarca uyarılmasına karşın kurallara uymayan öğrenciler hakkında işlem başlatıldı.", "question": "Bu cümlenin belirtisiz nesnesi nedir?", "gold": ""}
+{"id": "ex_00079__Yüklem", "sentence": "Defalarca uyarılmasına karşın kurallara uymayan öğrenciler hakkında işlem başlatıldı.", "question": "Bu cümlenin yüklemi nedir?", "gold": "başlatıldı"}

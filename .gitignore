@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+lib/
+lib64
+bin/
+share/
+pyvenv.cfg
+
+# Output files
+predictions.jsonl
+*_test.jsonl
+qwen_test.jsonl
+
+# Other
+*.zip
