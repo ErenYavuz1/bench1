@@ -44,8 +44,11 @@ def count_matches(pred: str, gold: str) -> tuple:
     for gold_part in gold_parts:
         gold_part_norm = norm(gold_part)
 
-        # Check if gold part is found in prediction (substring match)
-        if gold_part_norm in pred_norm or pred_norm in gold_part_norm:
+        # Check if gold matches exactly or appears at the end of prediction
+        # (allows explanation before, but no extra words after)
+        if pred_norm == gold_part_norm:
+            matched_count += 1
+        elif pred_norm.endswith(gold_part_norm):
             matched_count += 1
 
     return (matched_count, total_parts)

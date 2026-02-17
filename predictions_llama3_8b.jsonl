@@ -1,0 +1,160 @@
+{"id": "ex_00000__Özne", "prediction": "Bilim adamları"}
+{"id": "ex_00000__Gizli Özne", "prediction": "Avrupalı bilim adamları"}
+{"id": "ex_00000__Zarf Tümleci", "prediction": "Tümlecisi \"hangi\"dir"}
+{"id": "ex_00000__Dolaylı Tümleç", "prediction": "Sayısız kitabın bulunduğu bu kütüphaneyi geçen yüzyılın başlarında Avrupalı bilim adamları ziyaret etmişler"}
+{"id": "ex_00000__Edat Tümleci", "prediction": "edat tümleci: ziyaret etmediler (passive voice)"}
+{"id": "ex_00000__Belirtili Nesne", "prediction": "kütüphaneyi"}
+{"id": "ex_00000__Belirtisiz Nesne", "prediction": "kütüphaneyi"}
+{"id": "ex_00000__Yüklem", "prediction": "Kütüphaneyi"}
+{"id": "ex_00001__Özne", "prediction": "Sanatçı"}
+{"id": "ex_00001__Gizli Özne", "prediction": "Sanatçı"}
+{"id": "ex_00001__Zarf Tümleci", "prediction": "Tümleci: başlangıçta"}
+{"id": "ex_00001__Dolaylı Tümleç", "prediction": "Tümlecik: Her sanatçı başlangıçta büyük sanatçıları taklit eder"}
+{"id": "ex_00001__Edat Tümleci", "prediction": "edat tümleci: başlangıçta"}
+{"id": "ex_00001__Belirtili Nesne", "prediction": "sanatçı"}
+{"id": "ex_00001__Belirtisiz Nesne", "prediction": "Sanatçı"}
+{"id": "ex_00001__Yüklem", "prediction": "Sanatçılar"}
+{"id": "ex_00002__Özne", "prediction": "Kisi"}
+{"id": "ex_00002__Gizli Özne", "prediction": "Kişi"}
+{"id": "ex_00002__Zarf Tümleci", "prediction": "Tümlecidir"}
+{"id": "ex_00002__Dolaylı Tümleç", "prediction": "Dolaylı tümlecik: Şehir dışına çıkmak"}
+{"id": "ex_00002__Edat Tümleci", "prediction": "edat tümleci: etkileyecektir"}
+{"id": "ex_00002__Belirtili Nesne", "prediction": "İnsanları"}
+{"id": "ex_00002__Belirtisiz Nesne", "prediction": "İnsanları"}
+{"id": "ex_00002__Yüklem", "prediction": "Etkileyecektir"}
+{"id": "ex_00003__Özne", "prediction": "Bayrağı"}
+{"id": "ex_00003__Gizli Özne", "prediction": "Köyüncü"}
+{"id": "ex_00003__Zarf Tümleci", "prediction": "Tümlecidir"}
+{"id": "ex_00003__Dolaylı Tümleç", "prediction": "Dolaylı tümleci: Göğsümüze karlı dağların"}
+{"id": "ex_00003__Edat Tümleci", "prediction": "edat tümleci: Bayrağı"}
+{"id": "ex_00003__Belirtili Nesne", "prediction": "bayrağı"}
+{"id": "ex_00003__Belirtisiz Nesne", "prediction": "bayrağı"}
+{"id": "ex_00003__Yüklem", "prediction": "Bayrağı"}
+{"id": "ex_00004__Özne", "prediction": "Ben"}
+{"id": "ex_00004__Gizli Özne", "prediction": "Ben"}
+{"id": "ex_00004__Zarf Tümleci", "prediction": "Tümlecidir"}
+{"id": "ex_00004__Dolaylı Tümleç", "prediction": "Az önce bir çocuğun ağlaya ağlaya koştuğunu gördüm"}
+{"id": "ex_00004__Edat Tümleci", "prediction": "Ağlaya ağlaya"}
+{"id": "ex_00004__Belirtili Nesne", "prediction": "Çocuğun"}
+{"id": "ex_00004__Belirtisiz Nesne", "prediction": "Çocuğu"}
+{"id": "ex_00004__Yüklem", "prediction": "Gördüm"}
+{"id": "ex_00005__Özne", "prediction": "Ozan"}
+{"id": "ex_00005__Gizli Özne", "prediction": "Kendisi"}
+{"id": "ex_00005__Zarf Tümleci", "prediction": "Korkusundan"}
+{"id": "ex_00005__Dolaylı Tümleç", "prediction": "Kayıpma"}
+{"id": "ex_00005__Edat Tümleci", "prediction": "edat tümleci: korkusundan"}
+{"id": "ex_00005__Belirtili Nesne", "prediction": "Korku"}
+{"id": "ex_00005__Belirtisiz Nesne", "prediction": "Korku"}
+{"id": "ex_00005__Yüklem", "prediction": "Söz etmiyor"}
+{"id": "ex_00006__Özne", "prediction": "Balinalar"}
+{"id": "ex_00006__Gizli Özne", "prediction": "Balinalar"}
+{"id": "ex_00006__Zarf Tümleci", "prediction": "Tümlecidir"}
+{"id": "ex_00006__Dolaylı Tümleç", "prediction": "Tümlecisi: \"Okyanustaki en küçük canlılar balinalardır.\""}
+{"id": "ex_00006__Edat Tümleci", "prediction": "edat tümleci: en"}
+{"id": "ex_00006__Belirtili Nesne", "prediction": "Canlılar"}
+{"id": "ex_00006__Belirtisiz Nesne", "prediction": "Balinalar"}
+{"id": "ex_00006__Yüklem", "prediction": "Balinalar, okyanustaki en büyük canlılardır"}
+{"id": "ex_00007__Özne", "prediction": "Herkes"}
+{"id": "ex_00007__Gizli Özne", "prediction": "Kisi"}
+{"id": "ex_00007__Zarf Tümleci", "prediction": "Tümlec: herkes"}
+{"id": "ex_00007__Dolaylı Tümleç", "prediction": "Yağmur bastırınca herkes hemen içeri kaçtı"}
+{"id": "ex_00007__Edat Tümleci", "prediction": "bastırınca"}
+{"id": "ex_00007__Belirtili Nesne", "prediction": "yağmur"}
+{"id": "ex_00007__Belirtisiz Nesne", "prediction": "Yağmur"}
+{"id": "ex_00007__Yüklem", "prediction": "Kaçtı"}
+{"id": "ex_00008__Özne", "prediction": "Ona"}
+{"id": "ex_00008__Gizli Özne", "prediction": "Ona"}
+{"id": "ex_00008__Zarf Tümleci", "prediction": "Zarf tümleci: Onun"}
+{"id": "ex_00008__Dolaylı Tümleç", "prediction": "Dolaylı tümlecisi \"ona\" dır"}
+{"id": "ex_00008__Edat Tümleci", "prediction": "onun anatamadım"}
+{"id": "ex_00008__Belirtili Nesne", "prediction": "O'na"}
+{"id": "ex_00008__Belirtisiz Nesne", "prediction": "O'na"}
+{"id": "ex_00008__Yüklem", "prediction": "Anlatamadım"}
+{"id": "ex_00009__Özne", "prediction": "Herkes"}
+{"id": "ex_00009__Gizli Özne", "prediction": "Herkes"}
+{"id": "ex_00009__Zarf Tümleci", "prediction": "Herkesin"}
+{"id": "ex_00009__Dolaylı Tümleç", "prediction": "Dolaylı tümlecisi \"Herkesin keyfini\"dir"}
+{"id": "ex_00009__Edat Tümleci", "prediction": "edat tümleci: herkesin"}
+{"id": "ex_00009__Belirtili Nesne", "prediction": "olay"}
+{"id": "ex_00009__Belirtisiz Nesne", "prediction": "olay"}
+{"id": "ex_00009__Yüklem", "prediction": "Yüklemi \"olayı\"dir"}
+{"id": "ex_00010__Özne", "prediction": "Sait Faik"}
+{"id": "ex_00010__Gizli Özne", "prediction": "Sait Faik"}
+{"id": "ex_00010__Zarf Tümleci", "prediction": "Tümlecidir"}
+{"id": "ex_00010__Dolaylı Tümleç", "prediction": "Yakalamıştır"}
+{"id": "ex_00010__Edat Tümleci", "prediction": "edat tümleci: gerçekçi"}
+{"id": "ex_00010__Belirtili Nesne", "prediction": "Sait Faik"}
+{"id": "ex_00010__Belirtisiz Nesne", "prediction": "Sait Faik"}
+{"id": "ex_00010__Yüklem", "prediction": "Sait Faik, öykülerinde gerçekçi bir çizgi yakalmıştır"}
+{"id": "ex_00011__Özne", "prediction": "Aldığınız"}
+{"id": "ex_00011__Gizli Özne", "prediction": "Kullanıcı"}
+{"id": "ex_00011__Zarf Tümleci", "prediction": "Tümlecisi: İstediğiniz"}
+{"id": "ex_00011__Dolaylı Tümleç", "prediction": "Tümlecisi: Ürünleriniz istendiğiniz şekilde sarıldı"}
+{"id": "ex_00011__Edat Tümleci", "prediction": "istendiğiniz"}
+{"id": "ex_00011__Belirtili Nesne", "prediction": "Ürünler"}
+{"id": "ex_00011__Belirtisiz Nesne", "prediction": "Ürünler"}
+{"id": "ex_00011__Yüklem", "prediction": "Aldığınız ürünler istendiğiniz şekilde sarıldı"}
+{"id": "ex_00012__Özne", "prediction": "Bizim"}
+{"id": "ex_00012__Gizli Özne", "prediction": "Bizim"}
+{"id": "ex_00012__Zarf Tümleci", "prediction": "Tümleç: Ufuktan ufka"}
+{"id": "ex_00012__Dolaylı Tümleç", "prediction": "Yanıt: Gençlik günlerindeki gibi"}
+{"id": "ex_00012__Edat Tümleci", "prediction": "edat tümleci: Koşturuyoruz"}
+{"id": "ex_00012__Belirtili Nesne", "prediction": "Koşturuyoruz"}
+{"id": "ex_00012__Belirtisiz Nesne", "prediction": "koşturuyoruz"}
+{"id": "ex_00012__Yüklem", "prediction": "Koşturuyoruz"}
+{"id": "ex_00013__Özne", "prediction": "Onlar"}
+{"id": "ex_00013__Gizli Özne", "prediction": "Onlar"}
+{"id": "ex_00013__Zarf Tümleci", "prediction": "Tümleci: Zarf Tümleci - \"Babalarından kalan\""}
+{"id": "ex_00013__Dolaylı Tümleç", "prediction": "Tümlec"}
+{"id": "ex_00013__Edat Tümleci", "prediction": "edat tümleci: mirası paylaştılar"}
+{"id": "ex_00013__Belirtili Nesne", "prediction": "Mirası"}
+{"id": "ex_00013__Belirtisiz Nesne", "prediction": "Babalarından kalan yüklü mirası"}
+{"id": "ex_00013__Yüklem", "prediction": "Yüklemi \"paylaştılar\"dir"}
+{"id": "ex_00014__Özne", "prediction": "Kişisel Özne: Kitapların"}
+{"id": "ex_00014__Gizli Özne", "prediction": "Okur"}
+{"id": "ex_00014__Zarf Tümleci", "prediction": "Tümlecidir"}
+{"id": "ex_00014__Dolaylı Tümleç", "prediction": "Dolaylı tümlecik: Onlarla içli dışlı olmaya"}
+{"id": "ex_00014__Edat Tümleci", "prediction": "edat tümleci: bağlaç"}
+{"id": "ex_00014__Belirtili Nesne", "prediction": "Anlamak"}
+{"id": "ex_00014__Belirtisiz Nesne", "prediction": "Kitaplar"}
+{"id": "ex_00014__Yüklem", "prediction": "Anlamak"}
+{"id": "ex_00015__Özne", "prediction": "Oyuncu"}
+{"id": "ex_00015__Gizli Özne", "prediction": "Oyuncu"}
+{"id": "ex_00015__Zarf Tümleci", "prediction": "Zarf tümleci: yoldan denize kadar inen büyük kayalar"}
+{"id": "ex_00015__Dolaylı Tümleç", "prediction": "Yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi severdi"}
+{"id": "ex_00015__Edat Tümleci", "prediction": "edat tümleci: yerli fiil eylemi"}
+{"id": "ex_00015__Belirtili Nesne", "prediction": "Oyuncu"}
+{"id": "ex_00015__Belirtisiz Nesne", "prediction": "Oyunçular"}
+{"id": "ex_00015__Yüklem", "prediction": "Yüklemi: Burada yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi severdi"}
+{"id": "ex_00016__Özne", "prediction": "İlaçlar"}
+{"id": "ex_00016__Gizli Özne", "prediction": "İlaçlar"}
+{"id": "ex_00016__Zarf Tümleci", "prediction": "zaferi"}
+{"id": "ex_00016__Dolaylı Tümleç", "prediction": "Dolaylı tümlec: Bu ilaçların"}
+{"id": "ex_00016__Edat Tümleci", "prediction": "edat tümleci: sadece"}
+{"id": "ex_00016__Belirtili Nesne", "prediction": "ilacılar"}
+{"id": "ex_00016__Belirtisiz Nesne", "prediction": "ilacılar"}
+{"id": "ex_00016__Yüklem", "prediction": "İlaçlar"}
+{"id": "ex_00017__Özne", "prediction": "Benim"}
+{"id": "ex_00017__Gizli Özne", "prediction": "Benim"}
+{"id": "ex_00017__Zarf Tümleci", "prediction": "Tümü"}
+{"id": "ex_00017__Dolaylı Tümleç", "prediction": "Tümlecik: Bütün students"}
+{"id": "ex_00017__Edat Tümleci", "prediction": "edat tümleci: Bütün"}
+{"id": "ex_00017__Belirtili Nesne", "prediction": "öğrenciler"}
+{"id": "ex_00017__Belirtisiz Nesne", "prediction": "öğrenciler"}
+{"id": "ex_00017__Yüklem", "prediction": "Davranıyor"}
+{"id": "ex_00018__Özne", "prediction": "Ben"}
+{"id": "ex_00018__Gizli Özne", "prediction": "Ben"}
+{"id": "ex_00018__Zarf Tümleci", "prediction": "Zarf tümleci: Eyvah!"}
+{"id": "ex_00018__Dolaylı Tümleç", "prediction": "Yemeği ocakta unuttum"}
+{"id": "ex_00018__Edat Tümleci", "prediction": "edat tümleci: unutmu"}
+{"id": "ex_00018__Belirtili Nesne", "prediction": "Yemeği"}
+{"id": "ex_00018__Belirtisiz Nesne", "prediction": "Yemeği"}
+{"id": "ex_00018__Yüklem", "prediction": "Yemeği unuttum"}
+{"id": "ex_00019__Özne", "prediction": "Doğru insanlar"}
+{"id": "ex_00019__Gizli Özne", "prediction": "Kisi"}
+{"id": "ex_00019__Zarf Tümleci", "prediction": "Tümlecidir"}
+{"id": "ex_00019__Dolaylı Tümleç", "prediction": "Tümlecisi: Doğru insanlar, doğru konuşurlar"}
+{"id": "ex_00019__Edat Tümleci", "prediction": "Tümlec"}
+{"id": "ex_00019__Belirtili Nesne", "prediction": "İnsanlar"}
+{"id": "ex_00019__Belirtisiz Nesne", "prediction": "İnsanlar"}
+{"id": "ex_00019__Yüklem", "prediction": "Doğru insanlar doğru konuşurlar"}

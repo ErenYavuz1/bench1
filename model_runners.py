@@ -40,7 +40,7 @@ def clean_prediction(pred: str) -> str:
     p = pred.replace("\u200b", "").replace("\ufeff", "").strip()
     p = p.splitlines()[0].strip()
 
-    if p.lower() in {"", "yok", "yok.", "yoktur", "(boş)", "(boş bırakılır)", "boş", "-", "—", ":"}:
+    if p.lower() in {"","(boş)", "(boş bırakılır)","(tire)" ,"-", "—", ":"}:
         return ""
     return p.strip(" :.-")
 
@@ -51,7 +51,8 @@ def run_openai_model(
     output_file: str,
     api_key: Optional[str] = None,
     temperature: float = 0.0,
-    sleep: float = 0.5
+    sleep: float = 0.5,
+    base_url: Optional[str] = None
 ):
     """Run OpenAI model on benchmark."""
     try:
@@ -62,7 +63,10 @@ def run_openai_model(
         subprocess.check_call(["pip", "install", "openai"])
         from openai import OpenAI
 
-    client = OpenAI(api_key=api_key or os.environ.get("OPENAI_API_KEY"))
+    client_kwargs = {"api_key": api_key or os.environ.get("OPENAI_API_KEY")}
+    if base_url:
+        client_kwargs["base_url"] = base_url
+    client = OpenAI(**client_kwargs)
 
     with open(input_file, "r", encoding="utf-8") as f:
         items = [json.loads(line) for line in f if line.strip()]
@@ -76,7 +80,7 @@ def run_openai_model(
                     model=model_name,
                     messages=[{"role": "user", "content": prompt}],
                     temperature=temperature,
-                    max_tokens=512
+                    max_completion_tokens=512
                 )
                 pred_raw = response.choices[0].message.content or ""
             except Exception as e:
@@ -325,7 +329,7 @@ def run_huggingface_model(
 
             try:
                 # Tokenize with attention mask
-                if hasattr(tokenizer, "apply_chat_template"):
+                if hasattr(tokenizer, "apply_chat_template") and tokenizer.chat_template is not None:
                     messages = [{"role": "user", "content": prompt}]
                     text = tokenizer.apply_chat_template(
                         messages,
@@ -345,7 +349,7 @@ def run_huggingface_model(
                     outputs = model.generate(
                         inputs,
                         attention_mask=attention_mask,
-                        max_new_tokens=64,
+                        max_new_tokens=256,
                         do_sample=False,
                         pad_token_id=tokenizer.eos_token_id,
                     )
@@ -355,11 +359,23 @@ def run_huggingface_model(
                 input_len = inputs.shape[-1] if hasattr(inputs, 'shape') else len(inputs[0])
                 pred_raw = tokenizer.decode(outputs[0][input_len:], skip_special_tokens=True)
 
+                # DEBUG: Show raw output
+                print(f"\n[DEBUG] Raw generated (first 200 chars): {pred_raw[:200]}")
+
                 # Clean up chat model turn markers (e.g., Gemma's "model\n" prefix)
                 pred_raw = pred_raw.strip()
                 if pred_raw.lower().startswith("model"):
                     # Remove "model" prefix and any following newline
                     pred_raw = pred_raw[5:].strip()
+
+                # Handle thinking tags (Qwen3 and similar models)
+                if "<think>" in pred_raw:
+                    # Extract content after </think> tag
+                    if "</think>" in pred_raw:
+                        pred_raw = pred_raw.split("</think>", 1)[-1].strip()
+                    else:
+                        # If no closing tag, skip the <think> tag
+                        pred_raw = pred_raw.replace("<think>", "").strip()
 
                 # Take only the first line of actual answer
                 pred_raw = pred_raw.split("\n")[0].strip()
@@ -392,6 +408,7 @@ if __name__ == "__main__":
     parser.add_argument("--api_key", type=str, default=None, help="API key (or use env var)")
     parser.add_argument("--temperature", type=float, default=0.0)
     parser.add_argument("--sleep", type=float, default=0.5, help="Sleep between requests")
+    parser.add_argument("--base_url", type=str, default=None, help="Custom API base URL (e.g., http://localhost:11434/v1 for Ollama)")
 
     args = parser.parse_args()
 
@@ -404,11 +421,14 @@ if __name__ == "__main__":
     }
 
     runner = runners[args.provider]
-    runner(
-        model_name=args.model,
-        input_file=args.input,
-        output_file=args.output,
-        api_key=args.api_key,
-        temperature=args.temperature,
-        sleep=args.sleep
-    )
+    kwargs = {
+        "model_name": args.model,
+        "input_file": args.input,
+        "output_file": args.output,
+        "api_key": args.api_key,
+        "temperature": args.temperature,
+        "sleep": args.sleep,
+    }
+    if args.base_url and args.provider == "openai":
+        kwargs["base_url"] = args.base_url
+    runner(**kwargs)
