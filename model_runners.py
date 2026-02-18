@@ -157,46 +157,34 @@ def run_gemini_model(
 ):
     """Run Gemini model on benchmark."""
     try:
-        import google.generativeai as genai
+        from google import genai
+        from google.genai import types
     except ImportError:
         import subprocess
-        print("Installing google-generativeai...")
-        subprocess.check_call(["pip", "install", "google-generativeai"])
-        import google.generativeai as genai
+        print("Installing google-genai...")
+        subprocess.check_call(["pip", "install", "google-genai"])
+        from google import genai
+        from google.genai import types
 
-    genai.configure(api_key=api_key or os.environ.get("GEMINI_API_KEY"))
-    model = genai.GenerativeModel(model_name)
-    gen_config = {"temperature": temperature, "max_output_tokens": 512}
+    client = genai.Client(api_key=api_key or os.environ.get("GEMINI_API_KEY"))
 
     with open(input_file, "r", encoding="utf-8") as f:
         items = [json.loads(line) for line in f if line.strip()]
-
-    def get_text(resp) -> str:
-        try:
-            cands = getattr(resp, "candidates", None) or []
-            if not cands:
-                return ""
-            content = getattr(cands[0], "content", None)
-            if content is None:
-                return ""
-            parts = getattr(content, "parts", None) or []
-            if not parts:
-                return ""
-            for part in parts:
-                t = getattr(part, "text", None)
-                if t:
-                    return t
-            return ""
-        except Exception:
-            return ""
 
     with open(output_file, "w", encoding="utf-8") as out:
         for i, item in enumerate(items, 1):
             prompt = make_prompt(item["sentence"], item["question"])
 
             try:
-                resp = model.generate_content(prompt, generation_config=gen_config)
-                pred_raw = get_text(resp)
+                resp = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        temperature=temperature,
+                        max_output_tokens=8192,
+                    )
+                )
+                pred_raw = resp.text or ""
             except Exception as e:
                 print(f"[ERROR] id={item['id']} -> {e}")
                 pred_raw = ""
