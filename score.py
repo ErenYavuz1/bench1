@@ -51,6 +51,14 @@ def count_matches(pred: str, gold: str) -> tuple:
         elif pred_norm.endswith(gold_part_norm):
             matched_count += 1
 
+    # If not all parts matched, check if prediction matches all parts combined
+    # e.g. gold="başlangıçta; büyük sanatçıları taklit ederek"
+    #      pred="başlangıçta büyük sanatçıları taklit ederek" → full credit
+    if matched_count < total_parts and total_parts > 1:
+        combined_gold = norm(" ".join(gold_parts))
+        if pred_norm == combined_gold or pred_norm.endswith(combined_gold):
+            matched_count = total_parts
+
     return (matched_count, total_parts)
 
 def exact_match(pred: str, gold: str) -> int:
@@ -74,6 +82,12 @@ def exact_match(pred: str, gold: str) -> int:
     gold_parts = [norm(g.strip()) for g in gold.split(";") if g.strip()]
     if pred_norm in gold_parts:
         return 1
+
+    # Check if matches all parts combined (without semicolons)
+    if len(gold_parts) > 1:
+        combined = norm(" ".join(gold_parts))
+        if pred_norm == combined or pred_norm.endswith(combined):
+            return 1
 
     return 0
 
